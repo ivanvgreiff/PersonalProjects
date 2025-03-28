@@ -9,8 +9,8 @@ I have added 2 extra files since I turned in my work the first time:
 Therefore, as of 28.03.2025 here is the UPDATED list of the python files belonging to each challenge:
 
 Challenge A:
---> challengeA_q2_1_directblockchain.py
---> challengeA_q2_1_subgraph.py
+--> challengeA_q1_isVulnerableDAO.py
+--> challengeA_q2_estimateCost.py
 
 Challenge B:
 --> ChallengeB_q2_oppositeVotes.py
