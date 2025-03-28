@@ -1,119 +1,54 @@
-import requests
 from web3 import Web3
-import pandas as pd
+import json
 
-# Configuration
-INFURA_URL = "https://mainnet.infura.io/v3/8a8883700ab64f089d4512d70cff4e5c"
-GOVERNANCE_ADDRESS = "0x9AEE0B04504CeF83A65AC3f0e838D0593BCb2BC7"  # Corrected address
-HELPER_ADDRESS = "0x971c82c8316aD611904F95616c21ce90837f1856"    # Corrected helper address
+# Connect to Ethereum (Infura/Alchemy)
+web3 = Web3(Web3.HTTPProvider("https://mainnet.infura.io/v3/8a8883700ab64f089d4512d70cff4e5c"))
 
-# Minimal ABIs
-GOVERNANCE_ABI = [{
-    "inputs": [],
-    "name": "getProposalsCount",
-    "outputs": [{"name": "", "type": "uint256"}],
-    "stateMutability": "view",
-    "type": "function"
-}]
+# Aave Governance Core Contract
+GOVERNANCE_ADDRESS = "0xEC568fffba86c094cf06b22134B23074DFE2252c"
+GOVERNANCE_ABI = json.loads('''[{"inputs":[{"internalType":"address","name":"governanceStrategy","type":"address"},{"internalType":"uint256","name":"votingDelay","type":"uint256"},{"internalType":"address","name":"guardian","type":"address"},{"internalType":"address[]","name":"executors","type":"address[]"}],"stateMutability":"nonpayable","type":"constructor"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"address","name":"executor","type":"address"}],"name":"ExecutorAuthorized","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"address","name":"executor","type":"address"}],"name":"ExecutorUnauthorized","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"newStrategy","type":"address"},{"indexed":true,"internalType":"address","name":"initiatorChange","type":"address"}],"name":"GovernanceStrategyChanged","type":"event"},{"anonymous":false,"inputs":[{"indexed":true,"internalType":"address","name":"previousOwner","type":"address"},{"indexed":true,"internalType":"address","name":"newOwner","type":"address"}],"name":"OwnershipTransferred","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint256","name":"id","type":"uint256"}],"name":"ProposalCanceled","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint256","name":"id","type":"uint256"},{"indexed":true,"internalType":"address","name":"creator","type":"address"},{"indexed":true,"internalType":"contract IExecutorWithTimelock","name":"executor","type":"address"},{"indexed":false,"internalType":"address[]","name":"targets","type":"address[]"},{"indexed":false,"internalType":"uint256[]","name":"values","type":"uint256[]"},{"indexed":false,"internalType":"string[]","name":"signatures","type":"string[]"},{"indexed":false,"internalType":"bytes[]","name":"calldatas","type":"bytes[]"},{"indexed":false,"internalType":"bool[]","name":"withDelegatecalls","type":"bool[]"},{"indexed":false,"internalType":"uint256","name":"startBlock","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"endBlock","type":"uint256"},{"indexed":false,"internalType":"address","name":"strategy","type":"address"},{"indexed":false,"internalType":"bytes32","name":"ipfsHash","type":"bytes32"}],"name":"ProposalCreated","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint256","name":"id","type":"uint256"},{"indexed":true,"internalType":"address","name":"initiatorExecution","type":"address"}],"name":"ProposalExecuted","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint256","name":"id","type":"uint256"},{"indexed":false,"internalType":"uint256","name":"executionTime","type":"uint256"},{"indexed":true,"internalType":"address","name":"initiatorQueueing","type":"address"}],"name":"ProposalQueued","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint256","name":"id","type":"uint256"},{"indexed":true,"internalType":"address","name":"voter","type":"address"},{"indexed":false,"internalType":"bool","name":"support","type":"bool"},{"indexed":false,"internalType":"uint256","name":"votingPower","type":"uint256"}],"name":"VoteEmitted","type":"event"},{"anonymous":false,"inputs":[{"indexed":false,"internalType":"uint256","name":"newVotingDelay","type":"uint256"},{"indexed":true,"internalType":"address","name":"initiatorChange","type":"address"}],"name":"VotingDelayChanged","type":"event"},{"inputs":[],"name":"DOMAIN_TYPEHASH","outputs":[{"internalType":"bytes32","name":"","type":"bytes32"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"NAME","outputs":[{"internalType":"string","name":"","type":"string"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"VOTE_EMITTED_TYPEHASH","outputs":[{"internalType":"bytes32","name":"","type":"bytes32"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"__abdicate","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address[]","name":"executors","type":"address[]"}],"name":"authorizeExecutors","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"proposalId","type":"uint256"}],"name":"cancel","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"contract IExecutorWithTimelock","name":"executor","type":"address"},{"internalType":"address[]","name":"targets","type":"address[]"},{"internalType":"uint256[]","name":"values","type":"uint256[]"},{"internalType":"string[]","name":"signatures","type":"string[]"},{"internalType":"bytes[]","name":"calldatas","type":"bytes[]"},{"internalType":"bool[]","name":"withDelegatecalls","type":"bool[]"},{"internalType":"bytes32","name":"ipfsHash","type":"bytes32"}],"name":"create","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"proposalId","type":"uint256"}],"name":"execute","outputs":[],"stateMutability":"payable","type":"function"},{"inputs":[],"name":"getGovernanceStrategy","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"getGuardian","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"proposalId","type":"uint256"}],"name":"getProposalById","outputs":[{"components":[{"internalType":"uint256","name":"id","type":"uint256"},{"internalType":"address","name":"creator","type":"address"},{"internalType":"contract IExecutorWithTimelock","name":"executor","type":"address"},{"internalType":"address[]","name":"targets","type":"address[]"},{"internalType":"uint256[]","name":"values","type":"uint256[]"},{"internalType":"string[]","name":"signatures","type":"string[]"},{"internalType":"bytes[]","name":"calldatas","type":"bytes[]"},{"internalType":"bool[]","name":"withDelegatecalls","type":"bool[]"},{"internalType":"uint256","name":"startBlock","type":"uint256"},{"internalType":"uint256","name":"endBlock","type":"uint256"},{"internalType":"uint256","name":"executionTime","type":"uint256"},{"internalType":"uint256","name":"forVotes","type":"uint256"},{"internalType":"uint256","name":"againstVotes","type":"uint256"},{"internalType":"bool","name":"executed","type":"bool"},{"internalType":"bool","name":"canceled","type":"bool"},{"internalType":"address","name":"strategy","type":"address"},{"internalType":"bytes32","name":"ipfsHash","type":"bytes32"}],"internalType":"struct IAaveGovernanceV2.ProposalWithoutVotes","name":"","type":"tuple"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"proposalId","type":"uint256"}],"name":"getProposalState","outputs":[{"internalType":"enum IAaveGovernanceV2.ProposalState","name":"","type":"uint8"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"getProposalsCount","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"proposalId","type":"uint256"},{"internalType":"address","name":"voter","type":"address"}],"name":"getVoteOnProposal","outputs":[{"components":[{"internalType":"bool","name":"support","type":"bool"},{"internalType":"uint248","name":"votingPower","type":"uint248"}],"internalType":"struct IAaveGovernanceV2.Vote","name":"","type":"tuple"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"getVotingDelay","outputs":[{"internalType":"uint256","name":"","type":"uint256"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"address","name":"executor","type":"address"}],"name":"isExecutorAuthorized","outputs":[{"internalType":"bool","name":"","type":"bool"}],"stateMutability":"view","type":"function"},{"inputs":[],"name":"owner","outputs":[{"internalType":"address","name":"","type":"address"}],"stateMutability":"view","type":"function"},{"inputs":[{"internalType":"uint256","name":"proposalId","type":"uint256"}],"name":"queue","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[],"name":"renounceOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"governanceStrategy","type":"address"}],"name":"setGovernanceStrategy","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"votingDelay","type":"uint256"}],"name":"setVotingDelay","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"proposalId","type":"uint256"},{"internalType":"bool","name":"support","type":"bool"}],"name":"submitVote","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"uint256","name":"proposalId","type":"uint256"},{"internalType":"bool","name":"support","type":"bool"},{"internalType":"uint8","name":"v","type":"uint8"},{"internalType":"bytes32","name":"r","type":"bytes32"},{"internalType":"bytes32","name":"s","type":"bytes32"}],"name":"submitVoteBySignature","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address","name":"newOwner","type":"address"}],"name":"transferOwnership","outputs":[],"stateMutability":"nonpayable","type":"function"},{"inputs":[{"internalType":"address[]","name":"executors","type":"address[]"}],"name":"unauthorizeExecutors","outputs":[],"stateMutability":"nonpayable","type":"function"}]''')
 
-HELPER_ABI = [{
-    "inputs": [
-        {"name": "govCore", "type": "address"},
-        {"name": "from", "type": "uint256"},
-        {"name": "to", "type": "uint256"},
-        {"name": "pageSize", "type": "uint256"}
-    ],
-    "name": "getProposalsData",
-    "outputs": [{
-        "components": [
-            {"name": "id", "type": "uint256"},
-            {
-                "components": [
-                    {"name": "id", "type": "uint256"},
-                    {"name": "state", "type": "uint8"},
-                    {"name": "creator", "type": "address"},
-                    {"name": "forVotes", "type": "uint128"},
-                    {"name": "againstVotes", "type": "uint128"},
-                ],
-                "name": "proposalData",
-                "type": "tuple"
-            }
-        ],
-        "name": "",
-        "type": "tuple[]"
-    }],
-    "stateMutability": "view",
-    "type": "function"
-}]
+# Initialize contract
+governance = web3.eth.contract(address=GOVERNANCE_ADDRESS, abi=GOVERNANCE_ABI)
 
-# Initialize Web3 with Infura
-w3 = Web3(Web3.HTTPProvider(INFURA_URL))
+# Get total proposals count
+total_proposals = governance.functions.getProposalsCount().call()
+print(f"Total proposals: {total_proposals}")
+print("Please note, this may take a few minutes")
 
-# Initialize contracts with corrected addresses
-governance = w3.eth.contract(address=GOVERNANCE_ADDRESS, abi=GOVERNANCE_ABI)
-helper = w3.eth.contract(address=HELPER_ADDRESS, abi=HELPER_ABI)
+# Check votes for two addresses
+ADDRESS1 = "0x8b37a5Af68D315cf5A64097D96621F64b5502a22"  # AretaGov
+ADDRESS2 = "0xECC2a9240268BC7a26386ecB49E1Befca2706AC9"  # StableLab
 
-def get_proposals(limit=10):
-    """Get proposals with proper error handling"""
-    try:
-        # Get total count first
-        total = governance.functions.getProposalsCount().call()
-        print(f"Total proposals on chain: {total}")
-        
-        if total == 0:
-            return []
-
-        # Calculate range (handling potential underflow)
-        from_id = max(1, total - limit + 1)
-        
-        # Get proposal data
-        proposals = helper.functions.getProposalsData(
-            GOVERNANCE_ADDRESS,  # Using the corrected governance address
-            from_id,
-            total,
-            limit
-        ).call()
-        
-        return proposals[0]  # Returns the tuple array
-
-    except Exception as e:
-        print(f"Error fetching proposals: {str(e)}")
-        return []
-
-def format_proposals(raw_proposals):
-    """Format raw proposal data into readable format"""
-    state_mapping = {
-        0: "Pending", 1: "Canceled", 2: "Active",
-        3: "Failed", 4: "Succeeded", 5: "Queued",
-        6: "Expired", 7: "Executed"
-    }
+# This will organize the voting history into a list where both whales voted differently
+def get_voting_history():
+    differing_proposals = []
     
-    formatted = []
-    for prop in raw_proposals:
-        prop_id = prop[0]
-        data = prop[1]
-        formatted.append({
-            'ID': prop_id,
-            'State': state_mapping.get(data[1], f"Unknown ({data[1]})"),
-            'Creator': data[2],
-            'For Votes': data[3],
-            'Against Votes': data[4],
-            'URL': f"https://app.aave.com/governance/proposal/{prop_id}"
-        })
+    for prop_id in range(1, total_proposals + 1):
+    #for prop_id in range(370, 374): # sanity check
+        try:
+            # Get proposal votes
+            vote1 = governance.functions.getVoteOnProposal(prop_id, ADDRESS1).call()
+            vote2 = governance.functions.getVoteOnProposal(prop_id, ADDRESS2).call()
+            
+            # Compare votes (support: True=For, False=Against)
+            if vote1[0] != vote2[0]:  # First element is 'support' boolean
+                differing_proposals.append({
+                    'proposal_id': prop_id,
+                    ADDRESS1: 'For' if vote1[0] else 'Against',
+                    ADDRESS2: 'For' if vote2[0] else 'Against',
+                    'power1': vote1[1],  # Voting power
+                    'power2': vote2[1]
+                })
+        except:
+            continue
     
-    return formatted
+    return differing_proposals
 
-if __name__ == "__main__":
-    print("Fetching AAVE governance proposals...")
-    
-    # Get raw proposal data
-    raw_proposals = get_proposals(limit=15)  # Get last 15 proposals
-    
-    if raw_proposals:
-        # Process and display
-        df = pd.DataFrame(format_proposals(raw_proposals))
-        
-        print("\nLatest Proposals:")
-        print(df[['ID', 'State', 'For Votes', 'Against Votes', 'URL']].to_markdown(index=False))
-    else:
-        print("No proposals found or error occurred")
+results = get_voting_history()
+print(f"Found {len(results)} differing votes")
+
+# Here we print the first result we found when scannign for differing votes
+print(f"Delegate: 0x8b37a5Af68D315cf5A64097D96621F64b5502a22 voted {results[0]["0x8b37a5Af68D315cf5A64097D96621F64b5502a22"]}")
+print(f"Delegate: 0xECC2a9240268BC7a26386ecB49E1Befca2706AC9 voted {results[0]["0xECC2a9240268BC7a26386ecB49E1Befca2706AC9"]}")
+print(f"For Proposal ID: {results[0]["proposal_id"]}")
