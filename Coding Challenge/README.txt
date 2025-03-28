@@ -7,7 +7,7 @@ Challenge B:
 --> ChallengeB_q3_againstMajority.py
 
 
-^-- Both of these files work correctly, and are meant to replace the OLD files which does NOT work as well namely challengeB_q2_directblockchain.py, challengeA_q2_1_directblockchain.py, challengeA_q2_1_subgraph.py 
+^-- These files work correctly, and are meant to replace the OLD files which do NOT work AS well namely challengeB_q2_directblockchain.py, challengeA_q2_1_directblockchain.py, challengeA_q2_1_subgraph.py 
 (I would have deleted these but in the PDF of my answers I sent, it mentions these files and not the new ones...)
 
 
