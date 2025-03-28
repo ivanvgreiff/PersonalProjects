@@ -28,22 +28,20 @@ def get_voting_history():
     
     for prop_id in tqdm(range(1, total_proposals + 1)):
     #for prop_id in range(370, 374): # sanity check
-        try:
-            # Get proposal votes
-            vote1 = governance.functions.getVoteOnProposal(prop_id, ADDRESS1).call()
-            vote2 = governance.functions.getVoteOnProposal(prop_id, ADDRESS2).call()
+
+        # Get proposal votes
+        vote1 = governance.functions.getVoteOnProposal(prop_id, ADDRESS1).call()
+        vote2 = governance.functions.getVoteOnProposal(prop_id, ADDRESS2).call()
             
-            # Compare votes (support: True=For, False=Against)
-            if vote1[0] != vote2[0]:  # First element is 'support' boolean
-                differing_proposals.append({
-                    'proposal_id': prop_id,
-                    ADDRESS1: 'For' if vote1[0] else 'Against',
-                    ADDRESS2: 'For' if vote2[0] else 'Against',
-                    'power1': vote1[1],  # Voting power
-                    'power2': vote2[1]
-                })
-        except:
-            continue
+        # Compare votes (support: True=For, False=Against)
+        if vote1[0] != vote2[0]:  # First element is 'support' boolean
+            differing_proposals.append({
+                'proposal_id': prop_id,
+                ADDRESS1: 'For' if vote1[0] else 'Against',
+                ADDRESS2: 'For' if vote2[0] else 'Against',
+                'power1': vote1[1],  # Voting power
+                'power2': vote2[1]
+            })
     
     return differing_proposals
 
