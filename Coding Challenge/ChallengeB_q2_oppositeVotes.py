@@ -1,5 +1,6 @@
 from web3 import Web3
 import json
+from tqdm import tqdm
 
 # Connect to Ethereum (Infura/Alchemy)
 web3 = Web3(Web3.HTTPProvider("https://mainnet.infura.io/v3/8a8883700ab64f089d4512d70cff4e5c"))
@@ -14,7 +15,6 @@ governance = web3.eth.contract(address=GOVERNANCE_ADDRESS, abi=GOVERNANCE_ABI)
 # Get total proposals count
 total_proposals = governance.functions.getProposalsCount().call()
 print(f"Total proposals: {total_proposals}")
-print("Please note, this may take a few minutes")
 
 # Check votes for two addresses
 ADDRESS1 = "0x8b37a5Af68D315cf5A64097D96621F64b5502a22"  # AretaGov
@@ -23,8 +23,10 @@ ADDRESS2 = "0xECC2a9240268BC7a26386ecB49E1Befca2706AC9"  # StableLab
 # This will organize the voting history into a list where both whales voted differently
 def get_voting_history():
     differing_proposals = []
+
+    print("Scanning Proposals...")
     
-    for prop_id in range(1, total_proposals + 1):
+    for prop_id in tqdm(range(1, total_proposals + 1)):
     #for prop_id in range(370, 374): # sanity check
         try:
             # Get proposal votes
