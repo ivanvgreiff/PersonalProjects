@@ -77,7 +77,7 @@ def get_uni_usdc_price():
 
 # Print the current price
 uni_price = get_uni_usdc_price()
-print(f"Current $UNI price: ${uni_price:.4f}")
+print(f"Current $UNI price: ${uni_price:.2f}")
 
 # Now to calculate how much an attacker can gain (in terms of USD), 
 # we first convert the total supply from wei to $UNI
@@ -89,4 +89,4 @@ uni_in_treasury = total_supply_uni*percent_in_treasury
 # Next we convert the total $UNI available within the treasury into USD
 usd_in_treasury = uni_in_treasury*uni_price
 
-print(f"With a treasury allocation of {percent_in_treasury*100:.0f}%, there is a maximum of ${usd_in_treasury:.0f} available to the attacker")
+print(f"With a treasury allocation of {percent_in_treasury*100:.0f}%, there is a maximum of ${usd_in_treasury:,.2f} available to the attacker")
