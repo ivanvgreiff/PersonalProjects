@@ -89,4 +89,5 @@ uni_in_treasury = total_supply_uni*percent_in_treasury
 # Next we convert the total $UNI available within the treasury into USD
 usd_in_treasury = uni_in_treasury*uni_price
 
-print(f"With a treasury allocation of {percent_in_treasury*100:.0f}%, there is a maximum of ${usd_in_treasury:,.2f} available to the attacker")
+print(f"With a treasury allocation of {percent_in_treasury*100:.0f}%, there is a maximum of ${usd_in_treasury / 1_000_000_000:.2f}B available to the attacker")
+
