@@ -1,0 +1,12 @@
+[package]
+name = "bls_create_srs"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bls_lib.workspace = true
+math_lib.workspace = true
+rand = "0.8.5"

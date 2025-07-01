@@ -1,0 +1,12 @@
+[package]
+name = "bls_lib"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+crypto_lib.workspace = true
+math_lib.workspace = true
+
+[dev-dependencies]
+rand = "0.8.5"

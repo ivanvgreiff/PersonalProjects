@@ -1,0 +1,15 @@
+[workspace]
+members = [ "bls_create_srs", "bls_lib", "crypto_lib", "exercise_1", "exercise_2", "math_lib"]
+
+[workspace.package]
+name = "acds-exercise-1"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+
+[workspace.dependencies]
+bls_lib = { path = "./bls_lib" }
+crypto_lib = { path = "./crypto_lib" }
+math_lib = { path = "./math_lib" }
+exercise_1 = { path = "./exercise_1" }
+exercise_2 = { path = "./exercise_2" }

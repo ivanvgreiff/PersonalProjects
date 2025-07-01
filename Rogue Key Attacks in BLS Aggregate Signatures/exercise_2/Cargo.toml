@@ -1,0 +1,9 @@
+[package]
+name = "exercise_2"
+version.workspace = true
+edition.workspace = true
+
+[dependencies]
+math_lib.workspace = true
+bls_lib.workspace = true
+rand = "0.8.5"

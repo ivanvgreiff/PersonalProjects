@@ -1,0 +1,18 @@
+[package]
+name = "math_lib"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+serde = { version = "1.0", default-features = false, features = ["derive"], optional = true }
+serde_json = { version = "1.0", default-features = false, features = ["alloc"], optional = true }
+rayon = { version = "1.10.0", optional = true }
+
+[features]
+default = ["parallel", "std"]
+std = ["alloc", "serde?/std", "serde_json?/std"]
+alloc = []
+parallel = ["dep:rayon"]
+with_serde_binary = ["dep:serde", "alloc"]
+with_serde_string = ["dep:serde", "dep:serde_json", "alloc"]
