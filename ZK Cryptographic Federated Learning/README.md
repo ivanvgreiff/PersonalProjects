@@ -12,50 +12,50 @@ Federated Learning is a distributed machine learning paradigm where multiple cli
 
 #### Federated Optimization Objective
 The global objective in FL is to minimize the sum of local objectives:
-\[
+$$
 \min_{\theta} F(\theta) = \sum_{k=1}^K p_k F_k(\theta)
-\]
+$$
 where:
-- \( K \): Number of clients
-- \( p_k = \frac{n_k}{n} \): Proportion of data on client \( k \)
-- \( F_k(\theta) = \frac{1}{n_k} \sum_{i=1}^{n_k} \ell(\theta; x_i, y_i) \): Local loss on client \( k \)
-- \( \ell \): Loss function (e.g., cross-entropy)
+- $ K $: Number of clients
+- $ p_k = \frac{n_k}{n} $: Proportion of data on client $ k $
+- $ F_k(\theta) = \frac{1}{n_k} \sum_{i=1}^{n_k} \ell(\theta; x_i, y_i) $: Local loss on client $ k $
+- $ \ell $: Loss function (e.g., cross-entropy)
 
 #### Federated Averaging (FedAvg)
 At each round (server epoch):
-1. The server sends the current model parameters \( \theta \) to all clients.
-2. Each client updates \( \theta \) using its local data for several epochs, producing \( \theta_k \).
+1. The server sends the current model parameters $ \theta $ to all clients.
+2. Each client updates $ \theta $ using its local data for several epochs, producing $ \theta_k $.
 3. The server aggregates the updates, typically by weighted averaging:
-   \[
+   $$
    \theta_{t+1} = \sum_{k=1}^K p_k \theta_k
-   \]
+   $$
 
 #### Quantization for Communication Efficiency
 To reduce communication cost, model updates are quantized before being sent to the server. This project implements **stochastic quantization**:
-- For a value \( x \in [0, 1] \) and quantization level \( q \),
-- Let \( \lfloor qx \rfloor \) be the lower quantization bin, and \( \alpha = qx - \lfloor qx \rfloor \) the fractional part.
-- With probability \( \alpha \), round up; otherwise, round down:
-\[
+- For a value $ x \in [0, 1] $ and quantization level $ q $,
+- Let $ \lfloor qx \rfloor $ be the lower quantization bin, and $ \alpha = qx - \lfloor qx \rfloor $ the fractional part.
+- With probability $ \alpha $, round up; otherwise, round down:
+$$
 Q(x) = \begin{cases}
 \frac{\lfloor qx \rfloor + 1}{q} & \text{with probability } \alpha \\
 \frac{\lfloor qx \rfloor}{q} & \text{with probability } 1-\alpha
 \end{cases}
-\]
-This preserves the expectation: \( \mathbb{E}[Q(x)] = x \).
+$$
+This preserves the expectation: $ \mathbb{E}[Q(x)] = x $.
 
 #### Dirichlet Data Partitioning (Non-IID Data)
 To simulate realistic, non-IID data distributions across clients, the project supports Dirichlet partitioning:
-- For \( K \) clients and \( C \) classes, draw proportions \( \mathbf{p}_k \sim \text{Dirichlet}(\alpha) \) for each class.
-- Assign data to clients according to these proportions, controlling heterogeneity with \( \alpha \):
-  - Small \( \alpha \): Highly non-IID (clients see few classes)
-  - Large \( \alpha \): Nearly IID
+- For $ K $ clients and $ C $ classes, draw proportions $ \mathbf{p}_k \sim \text{Dirichlet}(\alpha) $ for each class.
+- Assign data to clients according to these proportions, controlling heterogeneity with $ \alpha $:
+  - Small $ \alpha $: Highly non-IID (clients see few classes)
+  - Large $ \alpha $: Nearly IID
 
 #### Client Activity and Dropout
 Client activity is modeled as a Bernoulli process:
-\[
+$$
 A_{k,t} \sim \text{Bernoulli}(1 - p_{\text{inact}})
-\]
-where \( A_{k,t} = 1 \) if client \( k \) is active at round \( t \).
+$$
+where $ A_{k,t} = 1 $ if client $ k $ is active at round $ t $.
 
 ---
 
@@ -67,23 +67,23 @@ While this codebase does not implement a full cryptographic protocol, it is desi
 - The server receives masked updates and, after all masks cancel out, recovers the aggregate update.
 
 **Mathematical Formulation:**
-- Each client \( k \) computes update \( \Delta_k \) and mask \( r_k \).
-- Sends \( \Delta_k + r_k \) to the server.
-- Masks are constructed so that \( \sum_k r_k = 0 \), thus:
-\[
+- Each client $ k $ computes update $ \Delta_k $ and mask $ r_k $.
+- Sends $ \Delta_k + r_k $ to the server.
+- Masks are constructed so that $ \sum_k r_k = 0 $, thus:
+$$
 \sum_k (\Delta_k + r_k) = \sum_k \Delta_k
-\]
+$$
 
 ### Quantization with Modular Arithmetic (for Secure Aggregation)
-- Quantized updates can be mapped to a finite field (e.g., modulo a prime \( p \)), enabling cryptographic protocols:
-\[
+- Quantized updates can be mapped to a finite field (e.g., modulo a prime $ p $), enabling cryptographic protocols:
+$$
 Q(x) = \text{Quantize}(x) \mod p
-\]
+$$
 - This is useful for protocols like [Bonawitz et al., 2017](https://arxiv.org/abs/1611.04482), where aggregation is performed in a finite field.
 
 ### Zero-Knowledge Proofs (ZK) (Research Direction)
 - The project is structured to allow future integration of ZK proofs, where clients can prove properties about their updates (e.g., correct computation, bounded norm) without revealing the updates themselves.
-- ZK proofs are not implemented, but the quantization and modular arithmetic steps are compatible with such extensions.
+- ZK proofs are not yet implemented (in progress), but the quantization and modular arithmetic steps are compatible with such extensions.
 
 ---
 
