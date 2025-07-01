@@ -1,0 +1,2600 @@
+Server Epoch 1 Started...
+Training on Client 1...
+original norm of grads is 1.2496490478515625
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0042519569396973
+norm of grads after quan norm is 1.25496244430542
+Training on Client 2...
+original norm of grads is 1.2418915033340454
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0041090250015259
+norm of grads after quan norm is 1.2469944953918457
+Training on Client 3...
+original norm of grads is 1.2190078496932983
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0038396120071411
+norm of grads after quan norm is 1.2236884832382202
+Training on Client 4...
+original norm of grads is 1.2925121784210205
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.003782868385315
+norm of grads after quan norm is 1.2974015474319458
+Training on Client 5...
+original norm of grads is 1.2602039575576782
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004173755645752
+norm of grads after quan norm is 1.2654638290405273
+Training on Client 6...
+original norm of grads is 1.1687133312225342
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0044665336608887
+norm of grads after quan norm is 1.1739333868026733
+Training on Client 7...
+original norm of grads is 1.255112886428833
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0042082071304321
+norm of grads after quan norm is 1.26039457321167
+Training on Client 8...
+original norm of grads is 1.2157158851623535
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0041757822036743
+norm of grads after quan norm is 1.220792531967163
+Training on Client 9...
+original norm of grads is 1.2575781345367432
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0041544437408447
+norm of grads after quan norm is 1.2628026008605957
+Training on Client 10...
+original norm of grads is 1.2794851064682007
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0035725831985474
+norm of grads after quan norm is 1.2840561866760254
+Server Epoch 1 is completed in 6.539791 seconds.
+Server Epoch 2 Started...
+Training on Client 1...
+original norm of grads is 1.3287371397018433
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0041085481643677
+norm of grads after quan norm is 1.3341963291168213
+Training on Client 2...
+original norm of grads is 1.3408284187316895
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046507120132446
+norm of grads after quan norm is 1.3470641374588013
+Training on Client 3...
+original norm of grads is 1.360816240310669
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0033369064331055
+norm of grads after quan norm is 1.3653571605682373
+Training on Client 4...
+original norm of grads is 1.3475821018218994
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0040234327316284
+norm of grads after quan norm is 1.353003978729248
+Training on Client 5...
+original norm of grads is 1.3527641296386719
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.003965139389038
+norm of grads after quan norm is 1.3581280708312988
+Training on Client 6...
+original norm of grads is 1.3781330585479736
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0041215419769287
+norm of grads after quan norm is 1.3838130235671997
+Training on Client 7...
+original norm of grads is 1.367454171180725
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046745538711548
+norm of grads after quan norm is 1.373846411705017
+Training on Client 8...
+original norm of grads is 1.3541630506515503
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0038740634918213
+norm of grads after quan norm is 1.359409213066101
+Training on Client 9...
+original norm of grads is 1.3377455472946167
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0041708946228027
+norm of grads after quan norm is 1.3433250188827515
+Training on Client 10...
+original norm of grads is 1.3424426317214966
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047681331634521
+norm of grads after quan norm is 1.3488435745239258
+Server Epoch 2 is completed in 4.810838 seconds.
+Server Epoch 3 Started...
+Training on Client 1...
+original norm of grads is 0.5441124439239502
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045949220657349
+norm of grads after quan norm is 0.5466126203536987
+Training on Client 2...
+original norm of grads is 0.574407160282135
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0038899183273315
+norm of grads after quan norm is 0.5766415596008301
+Training on Client 3...
+original norm of grads is 0.5556083917617798
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0038172006607056
+norm of grads after quan norm is 0.5577293038368225
+Training on Client 4...
+original norm of grads is 0.5130409598350525
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0039063692092896
+norm of grads after quan norm is 0.5150451064109802
+Training on Client 5...
+original norm of grads is 0.5425993204116821
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0038187503814697
+norm of grads after quan norm is 0.5446714162826538
+Training on Client 6...
+original norm of grads is 0.5349973440170288
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0042762756347656
+norm of grads after quan norm is 0.5372852087020874
+Training on Client 7...
+original norm of grads is 0.5566367506980896
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.003814697265625
+norm of grads after quan norm is 0.5587601661682129
+Training on Client 8...
+original norm of grads is 0.511258065700531
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004490852355957
+norm of grads after quan norm is 0.5135540962219238
+Training on Client 9...
+original norm of grads is 0.5529038310050964
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046207904815674
+norm of grads after quan norm is 0.5554587244987488
+Training on Client 10...
+original norm of grads is 0.49162209033966064
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0038501024246216
+norm of grads after quan norm is 0.49351489543914795
+Server Epoch 3 is completed in 4.765475 seconds.
+Server Epoch 4 Started...
+Training on Client 1...
+original norm of grads is 0.4713757038116455
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050805807113647
+norm of grads after quan norm is 0.4737705588340759
+Training on Client 2...
+original norm of grads is 0.4328979253768921
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004954218864441
+norm of grads after quan norm is 0.4350425899028778
+Training on Client 3...
+original norm of grads is 0.45048725605010986
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048308372497559
+norm of grads after quan norm is 0.45266345143318176
+Training on Client 4...
+original norm of grads is 0.4217303395271301
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.003637433052063
+norm of grads after quan norm is 0.4232643246650696
+Training on Client 5...
+original norm of grads is 0.44893884658813477
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0047681331634521
+norm of grads after quan norm is 0.45107945799827576
+Training on Client 6...
+original norm of grads is 0.46031197905540466
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.00379478931427
+norm of grads after quan norm is 0.46205878257751465
+Training on Client 7...
+original norm of grads is 0.4812667965888977
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0047507286071777
+norm of grads after quan norm is 0.4835531711578369
+Training on Client 8...
+original norm of grads is 0.43951907753944397
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050547122955322
+norm of grads after quan norm is 0.4417406916618347
+Training on Client 9...
+original norm of grads is 0.445793479681015
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0040243864059448
+norm of grads after quan norm is 0.4475875496864319
+Training on Client 10...
+original norm of grads is 0.42563456296920776
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0037200450897217
+norm of grads after quan norm is 0.4272179901599884
+Server Epoch 4 is completed in 5.07886 seconds.
+Server Epoch 5 Started...
+Training on Client 1...
+original norm of grads is 0.41665008664131165
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048516988754272
+norm of grads after quan norm is 0.418671578168869
+Training on Client 2...
+original norm of grads is 0.39302995800971985
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004367470741272
+norm of grads after quan norm is 0.3947465121746063
+Training on Client 3...
+original norm of grads is 0.4135381281375885
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0045281648635864
+norm of grads after quan norm is 0.41541072726249695
+Training on Client 4...
+original norm of grads is 0.38413116335868835
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0053033828735352
+norm of grads after quan norm is 0.38616839051246643
+Training on Client 5...
+original norm of grads is 0.3909308612346649
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004701018333435
+norm of grads after quan norm is 0.39276862144470215
+Training on Client 6...
+original norm of grads is 0.40091997385025024
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0041583776474
+norm of grads after quan norm is 0.4025871455669403
+Training on Client 7...
+original norm of grads is 0.4008064270019531
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0044447183609009
+norm of grads after quan norm is 0.4025878608226776
+Training on Client 8...
+original norm of grads is 0.38750243186950684
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0042644739151
+norm of grads after quan norm is 0.38915491104125977
+Training on Client 9...
+original norm of grads is 0.3914598226547241
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.00395667552948
+norm of grads after quan norm is 0.3930087089538574
+Training on Client 10...
+original norm of grads is 0.3976101279258728
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044903755187988
+norm of grads after quan norm is 0.39939555525779724
+Server Epoch 5 is completed in 4.944268 seconds.
+Server Epoch 6 Started...
+Training on Client 1...
+original norm of grads is 0.3921376168727875
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004508376121521
+norm of grads after quan norm is 0.39390549063682556
+Training on Client 2...
+original norm of grads is 0.371399849653244
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004652738571167
+norm of grads after quan norm is 0.37312784790992737
+Training on Client 3...
+original norm of grads is 0.39930784702301025
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0042986869812012
+norm of grads after quan norm is 0.40102440118789673
+Training on Client 4...
+original norm of grads is 0.3346737027168274
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0047328472137451
+norm of grads after quan norm is 0.3362576365470886
+Training on Client 5...
+original norm of grads is 0.38703954219818115
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0041215419769287
+norm of grads after quan norm is 0.38863471150398254
+Training on Client 6...
+original norm of grads is 0.36419877409935
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047740936279297
+norm of grads after quan norm is 0.3659374713897705
+Training on Client 7...
+original norm of grads is 0.3648131191730499
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0048258304595947
+norm of grads after quan norm is 0.36657366156578064
+Training on Client 8...
+original norm of grads is 0.35419976711273193
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0047801733016968
+norm of grads after quan norm is 0.3558928966522217
+Training on Client 9...
+original norm of grads is 0.37829986214637756
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0041563510894775
+norm of grads after quan norm is 0.37987220287323
+Training on Client 10...
+original norm of grads is 0.3755553960800171
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045675039291382
+norm of grads after quan norm is 0.37727078795433044
+Server Epoch 6 is completed in 4.884669 seconds.
+Server Epoch 7 Started...
+Training on Client 1...
+original norm of grads is 0.3904779255390167
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045008659362793
+norm of grads after quan norm is 0.3922354280948639
+Training on Client 2...
+original norm of grads is 0.34821945428848267
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0056008100509644
+norm of grads after quan norm is 0.35016974806785583
+Training on Client 3...
+original norm of grads is 0.36748772859573364
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0039786100387573
+norm of grads after quan norm is 0.3689498007297516
+Training on Client 4...
+original norm of grads is 0.31686559319496155
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046039819717407
+norm of grads after quan norm is 0.31832441687583923
+Training on Client 5...
+original norm of grads is 0.3408505916595459
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0045726299285889
+norm of grads after quan norm is 0.3424091637134552
+Training on Client 6...
+original norm of grads is 0.34654244780540466
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0042500495910645
+norm of grads after quan norm is 0.3480152487754822
+Training on Client 7...
+original norm of grads is 0.33577293157577515
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.004834771156311
+norm of grads after quan norm is 0.3373963236808777
+Training on Client 8...
+original norm of grads is 0.3562859296798706
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.00495183467865
+norm of grads after quan norm is 0.3580501973628998
+Training on Client 9...
+original norm of grads is 0.3547220230102539
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004218578338623
+norm of grads after quan norm is 0.35621845722198486
+Training on Client 10...
+original norm of grads is 0.366756796836853
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004145860671997
+norm of grads after quan norm is 0.36827734112739563
+Server Epoch 7 is completed in 4.833053 seconds.
+Server Epoch 8 Started...
+Training on Client 1...
+original norm of grads is 0.3782555162906647
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0035711526870728
+norm of grads after quan norm is 0.37960633635520935
+Training on Client 2...
+original norm of grads is 0.342414528131485
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047601461410522
+norm of grads after quan norm is 0.34404444694519043
+Training on Client 3...
+original norm of grads is 0.34890690445899963
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0044769048690796
+norm of grads after quan norm is 0.3504689335823059
+Training on Client 4...
+original norm of grads is 0.306279718875885
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0042788982391357
+norm of grads after quan norm is 0.3075902462005615
+Training on Client 5...
+original norm of grads is 0.3334205448627472
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0049198865890503
+norm of grads after quan norm is 0.3350609540939331
+Training on Client 6...
+original norm of grads is 0.3385899066925049
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0042076110839844
+norm of grads after quan norm is 0.34001457691192627
+Training on Client 7...
+original norm of grads is 0.33079272508621216
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047168731689453
+norm of grads after quan norm is 0.33235302567481995
+Training on Client 8...
+original norm of grads is 0.32719093561172485
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.00434410572052
+norm of grads after quan norm is 0.3286122679710388
+Training on Client 9...
+original norm of grads is 0.3448922634124756
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044596195220947
+norm of grads after quan norm is 0.34643033146858215
+Training on Client 10...
+original norm of grads is 0.3730027675628662
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0042246580123901
+norm of grads after quan norm is 0.3745785355567932
+Server Epoch 8 is completed in 4.954467 seconds.
+Server Epoch 9 Started...
+Training on Client 1...
+original norm of grads is 0.37163567543029785
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050054788589478
+norm of grads after quan norm is 0.3734959065914154
+Training on Client 2...
+original norm of grads is 0.33909520506858826
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0045148134231567
+norm of grads after quan norm is 0.34062618017196655
+Training on Client 3...
+original norm of grads is 0.34197908639907837
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0049552917480469
+norm of grads after quan norm is 0.3436736464500427
+Training on Client 4...
+original norm of grads is 0.31889861822128296
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0044690370559692
+norm of grads after quan norm is 0.32032379508018494
+Training on Client 5...
+original norm of grads is 0.32131901383399963
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004465103149414
+norm of grads after quan norm is 0.3227536976337433
+Training on Client 6...
+original norm of grads is 0.3216557204723358
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045994520187378
+norm of grads after quan norm is 0.3231351673603058
+Training on Client 7...
+original norm of grads is 0.31194454431533813
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048775672912598
+norm of grads after quan norm is 0.3134661018848419
+Training on Client 8...
+original norm of grads is 0.32379254698753357
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004799485206604
+norm of grads after quan norm is 0.32534658908843994
+Training on Client 9...
+original norm of grads is 0.32812923192977905
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004764199256897
+norm of grads after quan norm is 0.3296925127506256
+Training on Client 10...
+original norm of grads is 0.3643296957015991
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047945976257324
+norm of grads after quan norm is 0.3660764992237091
+Server Epoch 9 is completed in 4.982433 seconds.
+Server Epoch 10 Started...
+Training on Client 1...
+original norm of grads is 0.3701840341091156
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004056692123413
+norm of grads after quan norm is 0.37168577313423157
+Training on Client 2...
+original norm of grads is 0.32300204038619995
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004623293876648
+norm of grads after quan norm is 0.3244953751564026
+Training on Client 3...
+original norm of grads is 0.32925018668174744
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0054532289505005
+norm of grads after quan norm is 0.33104562759399414
+Training on Client 4...
+original norm of grads is 0.2889423370361328
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0043848752975464
+norm of grads after quan norm is 0.2902093529701233
+Training on Client 5...
+original norm of grads is 0.31472688913345337
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0045477151870728
+norm of grads after quan norm is 0.3161581754684448
+Training on Client 6...
+original norm of grads is 0.31113284826278687
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0041050910949707
+norm of grads after quan norm is 0.31241005659103394
+Training on Client 7...
+original norm of grads is 0.31267067790031433
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004307746887207
+norm of grads after quan norm is 0.3140175938606262
+Training on Client 8...
+original norm of grads is 0.30872419476509094
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046825408935547
+norm of grads after quan norm is 0.3101698160171509
+Training on Client 9...
+original norm of grads is 0.3251146078109741
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.004004955291748
+norm of grads after quan norm is 0.3264167010784149
+Training on Client 10...
+original norm of grads is 0.34651514887809753
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050901174545288
+norm of grads after quan norm is 0.3482789397239685
+Server Epoch 10 is completed in 4.957638 seconds.
+Server Epoch 11 Started...
+Training on Client 1...
+original norm of grads is 0.35174769163131714
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0048900842666626
+norm of grads after quan norm is 0.35346776247024536
+Training on Client 2...
+original norm of grads is 0.316542387008667
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045124292373657
+norm of grads after quan norm is 0.31797072291374207
+Training on Client 3...
+original norm of grads is 0.3123088479042053
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046930313110352
+norm of grads after quan norm is 0.3137744963169098
+Training on Client 4...
+original norm of grads is 0.28266412019729614
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047287940979004
+norm of grads after quan norm is 0.28400081396102905
+Training on Client 5...
+original norm of grads is 0.2958129346370697
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050801038742065
+norm of grads after quan norm is 0.29731568694114685
+Training on Client 6...
+original norm of grads is 0.3018636405467987
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004763126373291
+norm of grads after quan norm is 0.30330148339271545
+Training on Client 7...
+original norm of grads is 0.2998043894767761
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0047825574874878
+norm of grads after quan norm is 0.3012382388114929
+Training on Client 8...
+original norm of grads is 0.3021277189254761
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044665336608887
+norm of grads after quan norm is 0.3034771680831909
+Training on Client 9...
+original norm of grads is 0.3008940815925598
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045925378799438
+norm of grads after quan norm is 0.3022759258747101
+Training on Client 10...
+original norm of grads is 0.3428679406642914
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0053044557571411
+norm of grads after quan norm is 0.34468668699264526
+Server Epoch 11 is completed in 4.919578 seconds.
+Server Epoch 12 Started...
+Training on Client 1...
+original norm of grads is 0.33108052611351013
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0041823387145996
+norm of grads after quan norm is 0.33246520161628723
+Training on Client 2...
+original norm of grads is 0.320015549659729
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047736167907715
+norm of grads after quan norm is 0.3215431869029999
+Training on Client 3...
+original norm of grads is 0.3027576804161072
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004775047302246
+norm of grads after quan norm is 0.3042033612728119
+Training on Client 4...
+original norm of grads is 0.28059062361717224
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0035725831985474
+norm of grads after quan norm is 0.28159305453300476
+Training on Client 5...
+original norm of grads is 0.28659066557884216
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0049383640289307
+norm of grads after quan norm is 0.2880059480667114
+Training on Client 6...
+original norm of grads is 0.2918964922428131
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0045024156570435
+norm of grads after quan norm is 0.2932107150554657
+Training on Client 7...
+original norm of grads is 0.30020204186439514
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0048214197158813
+norm of grads after quan norm is 0.30164942145347595
+Training on Client 8...
+original norm of grads is 0.2944493293762207
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0051746368408203
+norm of grads after quan norm is 0.295973002910614
+Training on Client 9...
+original norm of grads is 0.2914751470088959
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0048527717590332
+norm of grads after quan norm is 0.2928895950317383
+Training on Client 10...
+original norm of grads is 0.33924198150634766
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0043067932128906
+norm of grads after quan norm is 0.34070301055908203
+Server Epoch 12 is completed in 5.014498 seconds.
+Server Epoch 13 Started...
+Training on Client 1...
+original norm of grads is 0.3332890272140503
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0043919086456299
+norm of grads after quan norm is 0.33475276827812195
+Training on Client 2...
+original norm of grads is 0.3038000464439392
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0049432516098022
+norm of grads after quan norm is 0.30530181527137756
+Training on Client 3...
+original norm of grads is 0.2875409722328186
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050477981567383
+norm of grads after quan norm is 0.28899240493774414
+Training on Client 4...
+original norm of grads is 0.27061980962753296
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046029090881348
+norm of grads after quan norm is 0.2718654274940491
+Training on Client 5...
+original norm of grads is 0.2835811972618103
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0043236017227173
+norm of grads after quan norm is 0.2848072946071625
+Training on Client 6...
+original norm of grads is 0.2922380566596985
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046402215957642
+norm of grads after quan norm is 0.2935941219329834
+Training on Client 7...
+original norm of grads is 0.28451818227767944
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0037693977355957
+norm of grads after quan norm is 0.28559064865112305
+Training on Client 8...
+original norm of grads is 0.2872675955295563
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050910711288452
+norm of grads after quan norm is 0.28873008489608765
+Training on Client 9...
+original norm of grads is 0.28873661160469055
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050920248031616
+norm of grads after quan norm is 0.2902068793773651
+Training on Client 10...
+original norm of grads is 0.3377414643764496
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0053735971450806
+norm of grads after quan norm is 0.33955633640289307
+Server Epoch 13 is completed in 4.983008 seconds.
+Server Epoch 14 Started...
+Training on Client 1...
+original norm of grads is 0.32937687635421753
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046088695526123
+norm of grads after quan norm is 0.33089491724967957
+Training on Client 2...
+original norm of grads is 0.29493001103401184
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0042973756790161
+norm of grads after quan norm is 0.29619741439819336
+Training on Client 3...
+original norm of grads is 0.2929235100746155
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.003846526145935
+norm of grads after quan norm is 0.29405027627944946
+Training on Client 4...
+original norm of grads is 0.282455176115036
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0048552751541138
+norm of grads after quan norm is 0.2838265597820282
+Training on Client 5...
+original norm of grads is 0.28179967403411865
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046507120132446
+norm of grads after quan norm is 0.28311023116111755
+Training on Client 6...
+original norm of grads is 0.2855282425880432
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004668116569519
+norm of grads after quan norm is 0.2868611216545105
+Training on Client 7...
+original norm of grads is 0.2838164269924164
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0045441389083862
+norm of grads after quan norm is 0.2851061224937439
+Training on Client 8...
+original norm of grads is 0.281942218542099
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004501461982727
+norm of grads after quan norm is 0.283211350440979
+Training on Client 9...
+original norm of grads is 0.2869398593902588
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0049571990966797
+norm of grads after quan norm is 0.2883622944355011
+Training on Client 10...
+original norm of grads is 0.3325367271900177
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045431852340698
+norm of grads after quan norm is 0.33404749631881714
+Server Epoch 14 is completed in 4.896649 seconds.
+Server Epoch 15 Started...
+Training on Client 1...
+original norm of grads is 0.30510762333869934
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004900574684143
+norm of grads after quan norm is 0.30660280585289
+Training on Client 2...
+original norm of grads is 0.30795231461524963
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0045779943466187
+norm of grads after quan norm is 0.30936214327812195
+Training on Client 3...
+original norm of grads is 0.27409827709198
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050184726715088
+norm of grads after quan norm is 0.27547383308410645
+Training on Client 4...
+original norm of grads is 0.26228877902030945
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0044903755187988
+norm of grads after quan norm is 0.26346656680107117
+Training on Client 5...
+original norm of grads is 0.274292528629303
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0043929815292358
+norm of grads after quan norm is 0.2754974663257599
+Training on Client 6...
+original norm of grads is 0.2859140932559967
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0047969818115234
+norm of grads after quan norm is 0.28728562593460083
+Training on Client 7...
+original norm of grads is 0.27317482233047485
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0043967962265015
+norm of grads after quan norm is 0.27437591552734375
+Training on Client 8...
+original norm of grads is 0.2733415365219116
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046159029006958
+norm of grads after quan norm is 0.2746032476425171
+Training on Client 9...
+original norm of grads is 0.28221777081489563
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0049299001693726
+norm of grads after quan norm is 0.2836090624332428
+Training on Client 10...
+original norm of grads is 0.31965434551239014
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0044550895690918
+norm of grads after quan norm is 0.32107844948768616
+Server Epoch 15 is completed in 4.889169 seconds.
+Server Epoch 16 Started...
+Training on Client 1...
+original norm of grads is 0.30762532353401184
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.004751205444336
+norm of grads after quan norm is 0.3090869188308716
+Training on Client 2...
+original norm of grads is 0.2895297706127167
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004871129989624
+norm of grads after quan norm is 0.2909401059150696
+Training on Client 3...
+original norm of grads is 0.26975375413894653
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0055023431777954
+norm of grads after quan norm is 0.2712380290031433
+Training on Client 4...
+original norm of grads is 0.2582056522369385
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004806399345398
+norm of grads after quan norm is 0.2594467103481293
+Training on Client 5...
+original norm of grads is 0.2931607961654663
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0049198865890503
+norm of grads after quan norm is 0.2946031093597412
+Training on Client 6...
+original norm of grads is 0.27654969692230225
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0046637058258057
+norm of grads after quan norm is 0.27783942222595215
+Training on Client 7...
+original norm of grads is 0.27805131673812866
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0046008825302124
+norm of grads after quan norm is 0.27933061122894287
+Training on Client 8...
+original norm of grads is 0.27540478110313416
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050835609436035
+norm of grads after quan norm is 0.2768048048019409
+Training on Client 9...
+original norm of grads is 0.2830674648284912
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004787564277649
+norm of grads after quan norm is 0.2844226360321045
+Training on Client 10...
+original norm of grads is 0.31476160883903503
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0048915147781372
+norm of grads after quan norm is 0.31630128622055054
+Server Epoch 16 is completed in 4.901469 seconds.
+Server Epoch 17 Started...
+Training on Client 1...
+original norm of grads is 0.3005247712135315
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0040756464004517
+norm of grads after quan norm is 0.3017496168613434
+Training on Client 2...
+original norm of grads is 0.27753445506095886
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045779943466187
+norm of grads after quan norm is 0.2788050174713135
+Training on Client 3...
+original norm of grads is 0.26572421193122864
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0050716400146484
+norm of grads after quan norm is 0.2670718729496002
+Training on Client 4...
+original norm of grads is 0.27307233214378357
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0035547018051147
+norm of grads after quan norm is 0.2740430235862732
+Training on Client 5...
+original norm of grads is 0.25964248180389404
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0054272413253784
+norm of grads after quan norm is 0.26105162501335144
+Training on Client 6...
+original norm of grads is 0.2747906446456909
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0048422813415527
+norm of grads after quan norm is 0.27612125873565674
+Training on Client 7...
+original norm of grads is 0.26666775345802307
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046427249908447
+norm of grads after quan norm is 0.2679058313369751
+Training on Client 8...
+original norm of grads is 0.29379451274871826
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0055590867996216
+norm of grads after quan norm is 0.29542770981788635
+Training on Client 9...
+original norm of grads is 0.2759862244129181
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0041354894638062
+norm of grads after quan norm is 0.27712753415107727
+Training on Client 10...
+original norm of grads is 0.3132668435573578
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004580020904541
+norm of grads after quan norm is 0.3147016167640686
+Server Epoch 17 is completed in 5.121932 seconds.
+Server Epoch 18 Started...
+Training on Client 1...
+original norm of grads is 0.29491126537323
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045452117919922
+norm of grads after quan norm is 0.29625168442726135
+Training on Client 2...
+original norm of grads is 0.27468636631965637
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045392513275146
+norm of grads after quan norm is 0.27593323588371277
+Training on Client 3...
+original norm of grads is 0.26456230878829956
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004859209060669
+norm of grads after quan norm is 0.2658478617668152
+Training on Client 4...
+original norm of grads is 0.2507212162017822
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0048526525497437
+norm of grads after quan norm is 0.2519378960132599
+Training on Client 5...
+original norm of grads is 0.26931583881378174
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0053397417068481
+norm of grads after quan norm is 0.2707539200782776
+Training on Client 6...
+original norm of grads is 0.2834528684616089
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0043834447860718
+norm of grads after quan norm is 0.2846953570842743
+Training on Client 7...
+original norm of grads is 0.26193398237228394
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0043176412582397
+norm of grads after quan norm is 0.2630649209022522
+Training on Client 8...
+original norm of grads is 0.2658223509788513
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048816204071045
+norm of grads after quan norm is 0.26711997389793396
+Training on Client 9...
+original norm of grads is 0.2696569859981537
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0051850080490112
+norm of grads after quan norm is 0.2710551917552948
+Training on Client 10...
+original norm of grads is 0.30910420417785645
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0043480396270752
+norm of grads after quan norm is 0.31044819951057434
+Server Epoch 18 is completed in 5.017461 seconds.
+Server Epoch 19 Started...
+Training on Client 1...
+original norm of grads is 0.286081999540329
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0052542686462402
+norm of grads after quan norm is 0.2875851094722748
+Training on Client 2...
+original norm of grads is 0.27723705768585205
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048491954803467
+norm of grads after quan norm is 0.278581440448761
+Training on Client 3...
+original norm of grads is 0.27275651693344116
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0050880908966064
+norm of grads after quan norm is 0.27414432168006897
+Training on Client 4...
+original norm of grads is 0.2418811023235321
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048640966415405
+norm of grads after quan norm is 0.24305765330791473
+Training on Client 5...
+original norm of grads is 0.2640329897403717
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048880577087402
+norm of grads after quan norm is 0.26532357931137085
+Training on Client 6...
+original norm of grads is 0.26800623536109924
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046546459197998
+norm of grads after quan norm is 0.2692537009716034
+Training on Client 7...
+original norm of grads is 0.2662333846092224
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0049567222595215
+norm of grads after quan norm is 0.26755303144454956
+Training on Client 8...
+original norm of grads is 0.2830500602722168
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0040308237075806
+norm of grads after quan norm is 0.28419098258018494
+Training on Client 9...
+original norm of grads is 0.26631271839141846
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0048308372497559
+norm of grads after quan norm is 0.2675992250442505
+Training on Client 10...
+original norm of grads is 0.30446258187294006
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047457218170166
+norm of grads after quan norm is 0.3059074878692627
+Server Epoch 19 is completed in 5.095454 seconds.
+Server Epoch 20 Started...
+Training on Client 1...
+original norm of grads is 0.2902213931083679
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0051566362380981
+norm of grads after quan norm is 0.2917179763317108
+Training on Client 2...
+original norm of grads is 0.2662762403488159
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044013261795044
+norm of grads after quan norm is 0.26744821667671204
+Training on Client 3...
+original norm of grads is 0.2473858892917633
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004952311515808
+norm of grads after quan norm is 0.24861101806163788
+Training on Client 4...
+original norm of grads is 0.24861721694469452
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0042201280593872
+norm of grads after quan norm is 0.24966640770435333
+Training on Client 5...
+original norm of grads is 0.25385257601737976
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048035383224487
+norm of grads after quan norm is 0.2550719678401947
+Training on Client 6...
+original norm of grads is 0.26280438899993896
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004044771194458
+norm of grads after quan norm is 0.2638673782348633
+Training on Client 7...
+original norm of grads is 0.2692013680934906
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0045416355133057
+norm of grads after quan norm is 0.2704240083694458
+Training on Client 8...
+original norm of grads is 0.2644974887371063
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0044715404510498
+norm of grads after quan norm is 0.265680193901062
+Training on Client 9...
+original norm of grads is 0.2676314413547516
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004072666168213
+norm of grads after quan norm is 0.26872143149375916
+Training on Client 10...
+original norm of grads is 0.2898525595664978
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0046049356460571
+norm of grads after quan norm is 0.2911873161792755
+Server Epoch 20 is completed in 5.087217 seconds.
+Server Epoch 21 Started...
+Training on Client 1...
+original norm of grads is 0.2855347692966461
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044773817062378
+norm of grads after quan norm is 0.28681325912475586
+Training on Client 2...
+original norm of grads is 0.26297739148139954
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0043236017227173
+norm of grads after quan norm is 0.2641144394874573
+Training on Client 3...
+original norm of grads is 0.25123918056488037
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044819116592407
+norm of grads after quan norm is 0.25236523151397705
+Training on Client 4...
+original norm of grads is 0.24466486275196075
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0052481889724731
+norm of grads after quan norm is 0.245948925614357
+Training on Client 5...
+original norm of grads is 0.25559163093566895
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0050100088119507
+norm of grads after quan norm is 0.25687214732170105
+Training on Client 6...
+original norm of grads is 0.2605787515640259
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004518747329712
+norm of grads after quan norm is 0.2617562413215637
+Training on Client 7...
+original norm of grads is 0.2718918025493622
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0052138566970825
+norm of grads after quan norm is 0.2733094096183777
+Training on Client 8...
+original norm of grads is 0.268227219581604
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004723310470581
+norm of grads after quan norm is 0.2694941759109497
+Training on Client 9...
+original norm of grads is 0.2649329900741577
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045068264007568
+norm of grads after quan norm is 0.26612699031829834
+Training on Client 10...
+original norm of grads is 0.2875119745731354
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046143531799316
+norm of grads after quan norm is 0.288838654756546
+Server Epoch 21 is completed in 4.980969 seconds.
+Server Epoch 22 Started...
+Training on Client 1...
+original norm of grads is 0.2795029878616333
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004796028137207
+norm of grads after quan norm is 0.28084349632263184
+Training on Client 2...
+original norm of grads is 0.25848329067230225
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0041723251342773
+norm of grads after quan norm is 0.25956177711486816
+Training on Client 3...
+original norm of grads is 0.24619317054748535
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004663109779358
+norm of grads after quan norm is 0.24734120070934296
+Training on Client 4...
+original norm of grads is 0.23702797293663025
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0046532154083252
+norm of grads after quan norm is 0.23813092708587646
+Training on Client 5...
+original norm of grads is 0.2502603232860565
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0049349069595337
+norm of grads after quan norm is 0.2514953017234802
+Training on Client 6...
+original norm of grads is 0.26628124713897705
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046855211257935
+norm of grads after quan norm is 0.2675288915634155
+Training on Client 7...
+original norm of grads is 0.26122185587882996
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004972219467163
+norm of grads after quan norm is 0.2625207006931305
+Training on Client 8...
+original norm of grads is 0.2601408362388611
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0043894052505493
+norm of grads after quan norm is 0.26128268241882324
+Training on Client 9...
+original norm of grads is 0.253562331199646
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045596361160278
+norm of grads after quan norm is 0.25471848249435425
+Training on Client 10...
+original norm of grads is 0.2994315028190613
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046671628952026
+norm of grads after quan norm is 0.3008289933204651
+Server Epoch 22 is completed in 4.981025 seconds.
+Server Epoch 23 Started...
+Training on Client 1...
+original norm of grads is 0.27462929487228394
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0045397281646729
+norm of grads after quan norm is 0.2758760154247284
+Training on Client 2...
+original norm of grads is 0.26220571994781494
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0041414499282837
+norm of grads after quan norm is 0.2632916271686554
+Training on Client 3...
+original norm of grads is 0.24674272537231445
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050054788589478
+norm of grads after quan norm is 0.24797779321670532
+Training on Client 4...
+original norm of grads is 0.24079982936382294
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0053696632385254
+norm of grads after quan norm is 0.24209283292293549
+Training on Client 5...
+original norm of grads is 0.24806155264377594
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0048612356185913
+norm of grads after quan norm is 0.24926742911338806
+Training on Client 6...
+original norm of grads is 0.2604447603225708
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.005650520324707
+norm of grads after quan norm is 0.2619163990020752
+Training on Client 7...
+original norm of grads is 0.2690928280353546
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0049711465835571
+norm of grads after quan norm is 0.2704305350780487
+Training on Client 8...
+original norm of grads is 0.26091742515563965
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004868745803833
+norm of grads after quan norm is 0.26218774914741516
+Training on Client 9...
+original norm of grads is 0.2520692050457001
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0048537254333496
+norm of grads after quan norm is 0.25329267978668213
+Training on Client 10...
+original norm of grads is 0.2904922664165497
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0043221712112427
+norm of grads after quan norm is 0.2917478382587433
+Server Epoch 23 is completed in 4.982444 seconds.
+Server Epoch 24 Started...
+Training on Client 1...
+original norm of grads is 0.28091439604759216
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004668116569519
+norm of grads after quan norm is 0.28222572803497314
+Training on Client 2...
+original norm of grads is 0.2610994279384613
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0040920972824097
+norm of grads after quan norm is 0.26216790080070496
+Training on Client 3...
+original norm of grads is 0.24788759648799896
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0052303075790405
+norm of grads after quan norm is 0.24918413162231445
+Training on Client 4...
+original norm of grads is 0.24979126453399658
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0049432516098022
+norm of grads after quan norm is 0.2510260343551636
+Training on Client 5...
+original norm of grads is 0.2557944059371948
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046372413635254
+norm of grads after quan norm is 0.2569805979728699
+Training on Client 6...
+original norm of grads is 0.2594468593597412
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0046780109405518
+norm of grads after quan norm is 0.2606605589389801
+Training on Client 7...
+original norm of grads is 0.2525745630264282
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0045700073242188
+norm of grads after quan norm is 0.25372883677482605
+Training on Client 8...
+original norm of grads is 0.2690885663032532
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045905113220215
+norm of grads after quan norm is 0.27032381296157837
+Training on Client 9...
+original norm of grads is 0.2518501579761505
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0043615102767944
+norm of grads after quan norm is 0.2529486119747162
+Training on Client 10...
+original norm of grads is 0.2899525761604309
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0042669773101807
+norm of grads after quan norm is 0.2911897897720337
+Server Epoch 24 is completed in 4.98131 seconds.
+Server Epoch 25 Started...
+Training on Client 1...
+original norm of grads is 0.2629372477531433
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047955513000488
+norm of grads after quan norm is 0.2641981542110443
+Training on Client 2...
+original norm of grads is 0.25960251688957214
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0048521757125854
+norm of grads after quan norm is 0.26086217164993286
+Training on Client 3...
+original norm of grads is 0.25485366582870483
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050755739212036
+norm of grads after quan norm is 0.25614720582962036
+Training on Client 4...
+original norm of grads is 0.2362271100282669
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.005276083946228
+norm of grads after quan norm is 0.2374734729528427
+Training on Client 5...
+original norm of grads is 0.2580590844154358
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047054290771484
+norm of grads after quan norm is 0.25927338004112244
+Training on Client 6...
+original norm of grads is 0.24774013459682465
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0037513971328735
+norm of grads after quan norm is 0.24866952002048492
+Training on Client 7...
+original norm of grads is 0.2564537227153778
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0043909549713135
+norm of grads after quan norm is 0.2575797736644745
+Training on Client 8...
+original norm of grads is 0.267349511384964
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0040572881698608
+norm of grads after quan norm is 0.26843422651290894
+Training on Client 9...
+original norm of grads is 0.25344255566596985
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004804015159607
+norm of grads after quan norm is 0.25466006994247437
+Training on Client 10...
+original norm of grads is 0.2710384428501129
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004307746887207
+norm of grads after quan norm is 0.27220597863197327
+Server Epoch 25 is completed in 5.159053 seconds.
+Server Epoch 26 Started...
+Training on Client 1...
+original norm of grads is 0.269570916891098
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047671794891357
+norm of grads after quan norm is 0.27085599303245544
+Training on Client 2...
+original norm of grads is 0.25193047523498535
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0045909881591797
+norm of grads after quan norm is 0.2530870735645294
+Training on Client 3...
+original norm of grads is 0.2596554160118103
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046312808990479
+norm of grads after quan norm is 0.2608579695224762
+Training on Client 4...
+original norm of grads is 0.23762430250644684
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004307746887207
+norm of grads after quan norm is 0.23864790797233582
+Training on Client 5...
+original norm of grads is 0.24679574370384216
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0049443244934082
+norm of grads after quan norm is 0.24801598489284515
+Training on Client 6...
+original norm of grads is 0.2545624375343323
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0041484832763672
+norm of grads after quan norm is 0.25561848282814026
+Training on Client 7...
+original norm of grads is 0.2657974362373352
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.003725528717041
+norm of grads after quan norm is 0.26678767800331116
+Training on Client 8...
+original norm of grads is 0.260078489780426
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.003872036933899
+norm of grads after quan norm is 0.26108551025390625
+Training on Client 9...
+original norm of grads is 0.2533714473247528
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.004815936088562
+norm of grads after quan norm is 0.2545916736125946
+Training on Client 10...
+original norm of grads is 0.2956141233444214
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0043480396270752
+norm of grads after quan norm is 0.2968994677066803
+Server Epoch 26 is completed in 5.029301 seconds.
+Server Epoch 27 Started...
+Training on Client 1...
+original norm of grads is 0.2530002295970917
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047940015792847
+norm of grads after quan norm is 0.2542131245136261
+Training on Client 2...
+original norm of grads is 0.24912986159324646
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0045690536499023
+norm of grads after quan norm is 0.2502681612968445
+Training on Client 3...
+original norm of grads is 0.2540013790130615
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0049949884414673
+norm of grads after quan norm is 0.2552701234817505
+Training on Client 4...
+original norm of grads is 0.23610427975654602
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0048054456710815
+norm of grads after quan norm is 0.23723885416984558
+Training on Client 5...
+original norm of grads is 0.2510649263858795
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0052567720413208
+norm of grads after quan norm is 0.2523846924304962
+Training on Client 6...
+original norm of grads is 0.25961723923683167
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046104192733765
+norm of grads after quan norm is 0.2608141601085663
+Training on Client 7...
+original norm of grads is 0.2539888918399811
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0040961503982544
+norm of grads after quan norm is 0.25502926111221313
+Training on Client 8...
+original norm of grads is 0.2599228322505951
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004106044769287
+norm of grads after quan norm is 0.26099011301994324
+Training on Client 9...
+original norm of grads is 0.24550850689411163
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0055203437805176
+norm of grads after quan norm is 0.24686378240585327
+Training on Client 10...
+original norm of grads is 0.2694963812828064
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004947304725647
+norm of grads after quan norm is 0.2708296775817871
+Server Epoch 27 is completed in 5.023477 seconds.
+Server Epoch 28 Started...
+Training on Client 1...
+original norm of grads is 0.2647867500782013
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0041176080703735
+norm of grads after quan norm is 0.26587700843811035
+Training on Client 2...
+original norm of grads is 0.2573885917663574
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044844150543213
+norm of grads after quan norm is 0.25854283571243286
+Training on Client 3...
+original norm of grads is 0.2370459884405136
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0040562152862549
+norm of grads after quan norm is 0.23800751566886902
+Training on Client 4...
+original norm of grads is 0.24140094220638275
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048567056655884
+norm of grads after quan norm is 0.2425733506679535
+Training on Client 5...
+original norm of grads is 0.24587969481945038
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0051034688949585
+norm of grads after quan norm is 0.24713453650474548
+Training on Client 6...
+original norm of grads is 0.25416848063468933
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0052611827850342
+norm of grads after quan norm is 0.2555057108402252
+Training on Client 7...
+original norm of grads is 0.2487490177154541
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004967212677002
+norm of grads after quan norm is 0.24998459219932556
+Training on Client 8...
+original norm of grads is 0.25731292366981506
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0042221546173096
+norm of grads after quan norm is 0.2583993077278137
+Training on Client 9...
+original norm of grads is 0.24377606809139252
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004844307899475
+norm of grads after quan norm is 0.24495700001716614
+Training on Client 10...
+original norm of grads is 0.2737886607646942
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048567056655884
+norm of grads after quan norm is 0.275118350982666
+Server Epoch 28 is completed in 5.130672 seconds.
+Server Epoch 29 Started...
+Training on Client 1...
+original norm of grads is 0.25257718563079834
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0039029121398926
+norm of grads after quan norm is 0.25356295704841614
+Training on Client 2...
+original norm of grads is 0.24899102747440338
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0044596195220947
+norm of grads after quan norm is 0.2501014173030853
+Training on Client 3...
+original norm of grads is 0.2361661046743393
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0043036937713623
+norm of grads after quan norm is 0.23718252778053284
+Training on Client 4...
+original norm of grads is 0.2481931746006012
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004820466041565
+norm of grads after quan norm is 0.24938955903053284
+Training on Client 5...
+original norm of grads is 0.24276527762413025
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0039715766906738
+norm of grads after quan norm is 0.24372944235801697
+Training on Client 6...
+original norm of grads is 0.24206531047821045
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0049248933792114
+norm of grads after quan norm is 0.24325744807720184
+Training on Client 7...
+original norm of grads is 0.24662061035633087
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.005049228668213
+norm of grads after quan norm is 0.24786585569381714
+Training on Client 8...
+original norm of grads is 0.24824725091457367
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0042176246643066
+norm of grads after quan norm is 0.249294251203537
+Training on Client 9...
+original norm of grads is 0.25280895829200745
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0049446821212769
+norm of grads after quan norm is 0.2540590465068817
+Training on Client 10...
+original norm of grads is 0.2747827470302582
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044655799865723
+norm of grads after quan norm is 0.27600979804992676
+Server Epoch 29 is completed in 5.012687 seconds.
+Server Epoch 30 Started...
+Training on Client 1...
+original norm of grads is 0.27110806107521057
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0044814348220825
+norm of grads after quan norm is 0.27232304215431213
+Training on Client 2...
+original norm of grads is 0.2375902682542801
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004731297492981
+norm of grads after quan norm is 0.23871436715126038
+Training on Client 3...
+original norm of grads is 0.23554709553718567
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0049010515213013
+norm of grads after quan norm is 0.23670151829719543
+Training on Client 4...
+original norm of grads is 0.23148609697818756
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004485011100769
+norm of grads after quan norm is 0.2325243055820465
+Training on Client 5...
+original norm of grads is 0.2428513467311859
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0048835277557373
+norm of grads after quan norm is 0.24403734505176544
+Training on Client 6...
+original norm of grads is 0.24187512695789337
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0044152736663818
+norm of grads after quan norm is 0.24294306337833405
+Training on Client 7...
+original norm of grads is 0.2400444895029068
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0041229724884033
+norm of grads after quan norm is 0.24103419482707977
+Training on Client 8...
+original norm of grads is 0.2605541944503784
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0041683912277222
+norm of grads after quan norm is 0.2616402804851532
+Training on Client 9...
+original norm of grads is 0.23720769584178925
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046581029891968
+norm of grads after quan norm is 0.23831264674663544
+Training on Client 10...
+original norm of grads is 0.2750515937805176
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0045098066329956
+norm of grads after quan norm is 0.27629202604293823
+Server Epoch 30 is completed in 5.105651 seconds.
+Server Epoch 31 Started...
+Training on Client 1...
+original norm of grads is 0.2473188191652298
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004399299621582
+norm of grads after quan norm is 0.24840685725212097
+Training on Client 2...
+original norm of grads is 0.24836541712284088
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004360556602478
+norm of grads after quan norm is 0.24944841861724854
+Training on Client 3...
+original norm of grads is 0.23464523255825043
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0051004886627197
+norm of grads after quan norm is 0.2358420342206955
+Training on Client 4...
+original norm of grads is 0.2411385029554367
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0049408674240112
+norm of grads after quan norm is 0.242329940199852
+Training on Client 5...
+original norm of grads is 0.2452596127986908
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0047472715377808
+norm of grads after quan norm is 0.24642392992973328
+Training on Client 6...
+original norm of grads is 0.25702548027038574
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0046930313110352
+norm of grads after quan norm is 0.2582316994667053
+Training on Client 7...
+original norm of grads is 0.24300163984298706
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050725936889648
+norm of grads after quan norm is 0.24423430860042572
+Training on Client 8...
+original norm of grads is 0.25561416149139404
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0051243305206299
+norm of grads after quan norm is 0.256924033164978
+Training on Client 9...
+original norm of grads is 0.2544688284397125
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0054033994674683
+norm of grads after quan norm is 0.255843847990036
+Training on Client 10...
+original norm of grads is 0.26376667618751526
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050551891326904
+norm of grads after quan norm is 0.2651000916957855
+Server Epoch 31 is completed in 5.082256 seconds.
+Server Epoch 32 Started...
+Training on Client 1...
+original norm of grads is 0.25805315375328064
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0044002532958984
+norm of grads after quan norm is 0.2591886818408966
+Training on Client 2...
+original norm of grads is 0.2632615864276886
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044928789138794
+norm of grads after quan norm is 0.26444441080093384
+Training on Client 3...
+original norm of grads is 0.23734401166439056
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0042903423309326
+norm of grads after quan norm is 0.23836229741573334
+Training on Client 4...
+original norm of grads is 0.2310292273759842
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048900842666626
+norm of grads after quan norm is 0.23215897381305695
+Training on Client 5...
+original norm of grads is 0.23495778441429138
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0054258108139038
+norm of grads after quan norm is 0.23623260855674744
+Training on Client 6...
+original norm of grads is 0.2508804500102997
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004254937171936
+norm of grads after quan norm is 0.25194793939590454
+Training on Client 7...
+original norm of grads is 0.24137665331363678
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045093297958374
+norm of grads after quan norm is 0.24246510863304138
+Training on Client 8...
+original norm of grads is 0.2636372447013855
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.005325436592102
+norm of grads after quan norm is 0.26504117250442505
+Training on Client 9...
+original norm of grads is 0.24000374972820282
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0039323568344116
+norm of grads after quan norm is 0.24094751477241516
+Training on Client 10...
+original norm of grads is 0.2689796984195709
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0039138793945312
+norm of grads after quan norm is 0.27003246545791626
+Server Epoch 32 is completed in 5.027387 seconds.
+Server Epoch 33 Started...
+Training on Client 1...
+original norm of grads is 0.2556992173194885
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0051676034927368
+norm of grads after quan norm is 0.25702059268951416
+Training on Client 2...
+original norm of grads is 0.24325241148471832
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0042400360107422
+norm of grads after quan norm is 0.24428381025791168
+Training on Client 3...
+original norm of grads is 0.2239253669977188
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0044699907302856
+norm of grads after quan norm is 0.22492632269859314
+Training on Client 4...
+original norm of grads is 0.2637827396392822
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0046920776367188
+norm of grads after quan norm is 0.2650204002857208
+Training on Client 5...
+original norm of grads is 0.24158625304698944
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0042763948440552
+norm of grads after quan norm is 0.2426193803548813
+Training on Client 6...
+original norm of grads is 0.25296396017074585
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048497915267944
+norm of grads after quan norm is 0.2541907727718353
+Training on Client 7...
+original norm of grads is 0.24006091058254242
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0044198036193848
+norm of grads after quan norm is 0.24112191796302795
+Training on Client 8...
+original norm of grads is 0.26456934213638306
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0045486688613892
+norm of grads after quan norm is 0.2657727897167206
+Training on Client 9...
+original norm of grads is 0.25323429703712463
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0041897296905518
+norm of grads after quan norm is 0.254295289516449
+Training on Client 10...
+original norm of grads is 0.26831793785095215
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0044575929641724
+norm of grads after quan norm is 0.26951396465301514
+Server Epoch 33 is completed in 4.983518 seconds.
+Server Epoch 34 Started...
+Training on Client 1...
+original norm of grads is 0.24969802796840668
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0051144361495972
+norm of grads after quan norm is 0.250975102186203
+Training on Client 2...
+original norm of grads is 0.23812876641750336
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004462480545044
+norm of grads after quan norm is 0.2391914278268814
+Training on Client 3...
+original norm of grads is 0.22789114713668823
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0040702819824219
+norm of grads after quan norm is 0.22881871461868286
+Training on Client 4...
+original norm of grads is 0.2369980812072754
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004420280456543
+norm of grads after quan norm is 0.23804566264152527
+Training on Client 5...
+original norm of grads is 0.23902133107185364
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047109127044678
+norm of grads after quan norm is 0.24014733731746674
+Training on Client 6...
+original norm of grads is 0.257540762424469
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0046442747116089
+norm of grads after quan norm is 0.25873681902885437
+Training on Client 7...
+original norm of grads is 0.284241259098053
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004675030708313
+norm of grads after quan norm is 0.2855701148509979
+Training on Client 8...
+original norm of grads is 0.24933306872844696
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0049422979354858
+norm of grads after quan norm is 0.2505653500556946
+Training on Client 9...
+original norm of grads is 0.2583670914173126
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004102110862732
+norm of grads after quan norm is 0.25942692160606384
+Training on Client 10...
+original norm of grads is 0.2642255127429962
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047527551651
+norm of grads after quan norm is 0.26548129320144653
+Server Epoch 34 is completed in 4.989242 seconds.
+Server Epoch 35 Started...
+Training on Client 1...
+original norm of grads is 0.2623724639415741
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0042340755462646
+norm of grads after quan norm is 0.26348334550857544
+Training on Client 2...
+original norm of grads is 0.24882720410823822
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044924020767212
+norm of grads after quan norm is 0.2499450445175171
+Training on Client 3...
+original norm of grads is 0.22463904321193695
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004772663116455
+norm of grads after quan norm is 0.2257111370563507
+Training on Client 4...
+original norm of grads is 0.24193012714385986
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.00468111038208
+norm of grads after quan norm is 0.24306261539459229
+Training on Client 5...
+original norm of grads is 0.24475817382335663
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.005312442779541
+norm of grads after quan norm is 0.2460584193468094
+Training on Client 6...
+original norm of grads is 0.2432498335838318
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004636287689209
+norm of grads after quan norm is 0.24437759816646576
+Training on Client 7...
+original norm of grads is 0.25346672534942627
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044949054718018
+norm of grads after quan norm is 0.2546060383319855
+Training on Client 8...
+original norm of grads is 0.2492070347070694
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004734754562378
+norm of grads after quan norm is 0.2503869831562042
+Training on Client 9...
+original norm of grads is 0.2554071545600891
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0047422647476196
+norm of grads after quan norm is 0.25661835074424744
+Training on Client 10...
+original norm of grads is 0.2632092833518982
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044132471084595
+norm of grads after quan norm is 0.2643708884716034
+Server Epoch 35 is completed in 5.101124 seconds.
+Server Epoch 36 Started...
+Training on Client 1...
+original norm of grads is 0.24537135660648346
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0041275024414062
+norm of grads after quan norm is 0.2463841289281845
+Training on Client 2...
+original norm of grads is 0.2455729842185974
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045427083969116
+norm of grads after quan norm is 0.24668854475021362
+Training on Client 3...
+original norm of grads is 0.23665472865104675
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0049830675125122
+norm of grads after quan norm is 0.23783400654792786
+Training on Client 4...
+original norm of grads is 0.2335893213748932
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0039526224136353
+norm of grads after quan norm is 0.23451262712478638
+Training on Client 5...
+original norm of grads is 0.23345515131950378
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0052716732025146
+norm of grads after quan norm is 0.23468583822250366
+Training on Client 6...
+original norm of grads is 0.24367693066596985
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0048582553863525
+norm of grads after quan norm is 0.24486076831817627
+Training on Client 7...
+original norm of grads is 0.2549692690372467
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004595398902893
+norm of grads after quan norm is 0.25614097714424133
+Training on Client 8...
+original norm of grads is 0.24596671760082245
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0052268505096436
+norm of grads after quan norm is 0.24725233018398285
+Training on Client 9...
+original norm of grads is 0.25550004839897156
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0052248239517212
+norm of grads after quan norm is 0.256835013628006
+Training on Client 10...
+original norm of grads is 0.2556036710739136
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048900842666626
+norm of grads after quan norm is 0.2568535804748535
+Server Epoch 36 is completed in 4.980596 seconds.
+Server Epoch 37 Started...
+Training on Client 1...
+original norm of grads is 0.2397240251302719
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0046566724777222
+norm of grads after quan norm is 0.24084033071994781
+Training on Client 2...
+original norm of grads is 0.24215741455554962
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0045093297958374
+norm of grads after quan norm is 0.24324938654899597
+Training on Client 3...
+original norm of grads is 0.23793333768844604
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0049457550048828
+norm of grads after quan norm is 0.23911011219024658
+Training on Client 4...
+original norm of grads is 0.23049573600292206
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0044116973876953
+norm of grads after quan norm is 0.2315126359462738
+Training on Client 5...
+original norm of grads is 0.234850212931633
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004989504814148
+norm of grads after quan norm is 0.2360220104455948
+Training on Client 6...
+original norm of grads is 0.25237271189689636
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047179460525513
+norm of grads after quan norm is 0.25356337428092957
+Training on Client 7...
+original norm of grads is 0.25067999958992004
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0052934885025024
+norm of grads after quan norm is 0.25200697779655457
+Training on Client 8...
+original norm of grads is 0.24279889464378357
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0045223236083984
+norm of grads after quan norm is 0.24389691650867462
+Training on Client 9...
+original norm of grads is 0.24929706752300262
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004543662071228
+norm of grads after quan norm is 0.25042980909347534
+Training on Client 10...
+original norm of grads is 0.25145214796066284
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044282674789429
+norm of grads after quan norm is 0.2525656223297119
+Server Epoch 37 is completed in 5.017651 seconds.
+Server Epoch 38 Started...
+Training on Client 1...
+original norm of grads is 0.240897998213768
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044063329696655
+norm of grads after quan norm is 0.24195946753025055
+Training on Client 2...
+original norm of grads is 0.24258653819561005
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0041099786758423
+norm of grads after quan norm is 0.2435835897922516
+Training on Client 3...
+original norm of grads is 0.22707703709602356
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045839548110962
+norm of grads after quan norm is 0.2281179577112198
+Training on Client 4...
+original norm of grads is 0.24146313965320587
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0040587186813354
+norm of grads after quan norm is 0.24244318902492523
+Training on Client 5...
+original norm of grads is 0.25954562425613403
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.005030870437622
+norm of grads after quan norm is 0.26085135340690613
+Training on Client 6...
+original norm of grads is 0.25169071555137634
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045257806777954
+norm of grads after quan norm is 0.25282981991767883
+Training on Client 7...
+original norm of grads is 0.2495969980955124
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.00468111038208
+norm of grads after quan norm is 0.2507653832435608
+Training on Client 8...
+original norm of grads is 0.24767473340034485
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048786401748657
+norm of grads after quan norm is 0.24888305366039276
+Training on Client 9...
+original norm of grads is 0.2467273324728012
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048472881317139
+norm of grads after quan norm is 0.24792326986789703
+Training on Client 10...
+original norm of grads is 0.25319772958755493
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0042718648910522
+norm of grads after quan norm is 0.25427937507629395
+Server Epoch 38 is completed in 5.015765 seconds.
+Server Epoch 39 Started...
+Training on Client 1...
+original norm of grads is 0.23991507291793823
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045502185821533
+norm of grads after quan norm is 0.2410067319869995
+Training on Client 2...
+original norm of grads is 0.23946188390254974
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050432682037354
+norm of grads after quan norm is 0.24066954851150513
+Training on Client 3...
+original norm of grads is 0.22096970677375793
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0044381618499756
+norm of grads after quan norm is 0.22195039689540863
+Training on Client 4...
+original norm of grads is 0.23316620290279388
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0050830841064453
+norm of grads after quan norm is 0.23435141146183014
+Training on Client 5...
+original norm of grads is 0.23624542355537415
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0051169395446777
+norm of grads after quan norm is 0.23745428025722504
+Training on Client 6...
+original norm of grads is 0.2354879081249237
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0048123598098755
+norm of grads after quan norm is 0.2366211712360382
+Training on Client 7...
+original norm of grads is 0.23415252566337585
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004688024520874
+norm of grads after quan norm is 0.23525023460388184
+Training on Client 8...
+original norm of grads is 0.2419559359550476
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0043187141418457
+norm of grads after quan norm is 0.24300086498260498
+Training on Client 9...
+original norm of grads is 0.2506559491157532
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0048736333847046
+norm of grads after quan norm is 0.2518775463104248
+Training on Client 10...
+original norm of grads is 0.24387553334236145
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004704475402832
+norm of grads after quan norm is 0.24502283334732056
+Server Epoch 39 is completed in 5.061025 seconds.
+Server Epoch 40 Started...
+Training on Client 1...
+original norm of grads is 0.23243887722492218
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044296979904175
+norm of grads after quan norm is 0.23346851766109467
+Training on Client 2...
+original norm of grads is 0.25329554080963135
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045725107192993
+norm of grads after quan norm is 0.25445374846458435
+Training on Client 3...
+original norm of grads is 0.23031586408615112
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0049482583999634
+norm of grads after quan norm is 0.23145551979541779
+Training on Client 4...
+original norm of grads is 0.23271794617176056
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0044834613800049
+norm of grads after quan norm is 0.23376134037971497
+Training on Client 5...
+original norm of grads is 0.24665102362632751
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0046536922454834
+norm of grads after quan norm is 0.2477988600730896
+Training on Client 6...
+original norm of grads is 0.23906202614307404
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047721862792969
+norm of grads after quan norm is 0.240202859044075
+Training on Client 7...
+original norm of grads is 0.2477467805147171
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004499912261963
+norm of grads after quan norm is 0.24886161088943481
+Training on Client 8...
+original norm of grads is 0.2430465817451477
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0035547018051147
+norm of grads after quan norm is 0.243910551071167
+Training on Client 9...
+original norm of grads is 0.24064834415912628
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0039561986923218
+norm of grads after quan norm is 0.2416003942489624
+Training on Client 10...
+original norm of grads is 0.25600317120552063
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048896074295044
+norm of grads after quan norm is 0.2572548985481262
+Server Epoch 40 is completed in 5.087289 seconds.
+Server Epoch 41 Started...
+Training on Client 1...
+original norm of grads is 0.2444436103105545
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004372477531433
+norm of grads after quan norm is 0.24551242589950562
+Training on Client 2...
+original norm of grads is 0.24050955474376678
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.005017876625061
+norm of grads after quan norm is 0.2417164146900177
+Training on Client 3...
+original norm of grads is 0.2343057245016098
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0043166875839233
+norm of grads after quan norm is 0.2353171557188034
+Training on Client 4...
+original norm of grads is 0.22583360970020294
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050731897354126
+norm of grads after quan norm is 0.2269793003797531
+Training on Client 5...
+original norm of grads is 0.23359446227550507
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0042082071304321
+norm of grads after quan norm is 0.234577476978302
+Training on Client 6...
+original norm of grads is 0.22925607860088348
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047377347946167
+norm of grads after quan norm is 0.23034225404262543
+Training on Client 7...
+original norm of grads is 0.24767692387104034
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.005233883857727
+norm of grads after quan norm is 0.24897322058677673
+Training on Client 8...
+original norm of grads is 0.2539617419242859
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0045804977416992
+norm of grads after quan norm is 0.2551250159740448
+Training on Client 9...
+original norm of grads is 0.2376515120267868
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.005434274673462
+norm of grads after quan norm is 0.2389429658651352
+Training on Client 10...
+original norm of grads is 0.24788933992385864
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.005102515220642
+norm of grads after quan norm is 0.24915418028831482
+Server Epoch 41 is completed in 5.220704 seconds.
+Server Epoch 42 Started...
+Training on Client 1...
+original norm of grads is 0.2330409437417984
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.005122423171997
+norm of grads after quan norm is 0.23423467576503754
+Training on Client 2...
+original norm of grads is 0.23076680302619934
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0045521259307861
+norm of grads after quan norm is 0.23181729018688202
+Training on Client 3...
+original norm of grads is 0.2247706800699234
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050989389419556
+norm of grads after quan norm is 0.225916787981987
+Training on Client 4...
+original norm of grads is 0.21921543776988983
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044795274734497
+norm of grads after quan norm is 0.2201974093914032
+Training on Client 5...
+original norm of grads is 0.25464344024658203
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.005133867263794
+norm of grads after quan norm is 0.2559507489204407
+Training on Client 6...
+original norm of grads is 0.23085448145866394
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044550895690918
+norm of grads after quan norm is 0.2318829745054245
+Training on Client 7...
+original norm of grads is 0.24379444122314453
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0051218271255493
+norm of grads after quan norm is 0.24504312872886658
+Training on Client 8...
+original norm of grads is 0.2356349527835846
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004251480102539
+norm of grads after quan norm is 0.23663674294948578
+Training on Client 9...
+original norm of grads is 0.23791691660881042
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0043749809265137
+norm of grads after quan norm is 0.23895779252052307
+Training on Client 10...
+original norm of grads is 0.25295212864875793
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0042953491210938
+norm of grads after quan norm is 0.25403860211372375
+Server Epoch 42 is completed in 5.226378 seconds.
+Server Epoch 43 Started...
+Training on Client 1...
+original norm of grads is 0.23435457050800323
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044296979904175
+norm of grads after quan norm is 0.23539267480373383
+Training on Client 2...
+original norm of grads is 0.23695799708366394
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.005438208580017
+norm of grads after quan norm is 0.2382466197013855
+Training on Client 3...
+original norm of grads is 0.22266481816768646
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004062294960022
+norm of grads after quan norm is 0.2235693484544754
+Training on Client 4...
+original norm of grads is 0.23891593515872955
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0047184228897095
+norm of grads after quan norm is 0.24004323780536652
+Training on Client 5...
+original norm of grads is 0.23520752787590027
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004502296447754
+norm of grads after quan norm is 0.23626650869846344
+Training on Client 6...
+original norm of grads is 0.24224551022052765
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0046019554138184
+norm of grads after quan norm is 0.24336031079292297
+Training on Client 7...
+original norm of grads is 0.23547446727752686
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047059059143066
+norm of grads after quan norm is 0.23658260703086853
+Training on Client 8...
+original norm of grads is 0.26172903180122375
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045925378799438
+norm of grads after quan norm is 0.2629310190677643
+Training on Client 9...
+original norm of grads is 0.2559306025505066
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047193765640259
+norm of grads after quan norm is 0.2571384310722351
+Training on Client 10...
+original norm of grads is 0.24619051814079285
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0042812824249268
+norm of grads after quan norm is 0.24724455177783966
+Server Epoch 43 is completed in 5.232071 seconds.
+Server Epoch 44 Started...
+Training on Client 1...
+original norm of grads is 0.23076021671295166
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047532320022583
+norm of grads after quan norm is 0.2318570762872696
+Training on Client 2...
+original norm of grads is 0.23473264276981354
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0042539834976196
+norm of grads after quan norm is 0.23573118448257446
+Training on Client 3...
+original norm of grads is 0.22751553356647491
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0044914484024048
+norm of grads after quan norm is 0.2285373955965042
+Training on Client 4...
+original norm of grads is 0.23045490682125092
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0049357414245605
+norm of grads after quan norm is 0.23159238696098328
+Training on Client 5...
+original norm of grads is 0.23911342024803162
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045651197433472
+norm of grads after quan norm is 0.24020498991012573
+Training on Client 6...
+original norm of grads is 0.24184225499629974
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045875310897827
+norm of grads after quan norm is 0.24295170605182648
+Training on Client 7...
+original norm of grads is 0.23860540986061096
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.004684567451477
+norm of grads after quan norm is 0.23972317576408386
+Training on Client 8...
+original norm of grads is 0.23644861578941345
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0050650835037231
+norm of grads after quan norm is 0.23764625191688538
+Training on Client 9...
+original norm of grads is 0.23337474465370178
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0043848752975464
+norm of grads after quan norm is 0.23439808189868927
+Training on Client 10...
+original norm of grads is 0.23904496431350708
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047268867492676
+norm of grads after quan norm is 0.24017490446567535
+Server Epoch 44 is completed in 5.169427 seconds.
+Server Epoch 45 Started...
+Training on Client 1...
+original norm of grads is 0.23458528518676758
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0051302909851074
+norm of grads after quan norm is 0.23578879237174988
+Training on Client 2...
+original norm of grads is 0.25015586614608765
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0052149295806885
+norm of grads after quan norm is 0.25146040320396423
+Training on Client 3...
+original norm of grads is 0.22523616254329681
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0043549537658691
+norm of grads after quan norm is 0.22621707618236542
+Training on Client 4...
+original norm of grads is 0.24290551245212555
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0046640634536743
+norm of grads after quan norm is 0.24403846263885498
+Training on Client 5...
+original norm of grads is 0.2400142103433609
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.005272626876831
+norm of grads after quan norm is 0.2412797063589096
+Training on Client 6...
+original norm of grads is 0.23122048377990723
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047447681427002
+norm of grads after quan norm is 0.23231756687164307
+Training on Client 7...
+original norm of grads is 0.2690031826496124
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.0044889450073242
+norm of grads after quan norm is 0.27021071314811707
+Training on Client 8...
+original norm of grads is 0.25246888399124146
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0041334629058838
+norm of grads after quan norm is 0.2535124719142914
+Training on Client 9...
+original norm of grads is 0.26757165789604187
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0042674541473389
+norm of grads after quan norm is 0.26871347427368164
+Training on Client 10...
+original norm of grads is 0.233735129237175
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0044764280319214
+norm of grads after quan norm is 0.23478145897388458
+Server Epoch 45 is completed in 5.162539 seconds.
+Server Epoch 46 Started...
+Training on Client 1...
+original norm of grads is 0.2514539659023285
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0046601295471191
+norm of grads after quan norm is 0.25262579321861267
+Training on Client 2...
+original norm of grads is 0.23246417939662933
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004701018333435
+norm of grads after quan norm is 0.23355698585510254
+Training on Client 3...
+original norm of grads is 0.2182491570711136
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0043455362319946
+norm of grads after quan norm is 0.2191975712776184
+Training on Client 4...
+original norm of grads is 0.2279440313577652
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004462480545044
+norm of grads after quan norm is 0.22896124422550201
+Training on Client 5...
+original norm of grads is 0.23800595104694366
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047129392623901
+norm of grads after quan norm is 0.23912763595581055
+Training on Client 6...
+original norm of grads is 0.245923712849617
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0051418542861938
+norm of grads after quan norm is 0.24718819558620453
+Training on Client 7...
+original norm of grads is 0.23253977298736572
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.005030870437622
+norm of grads after quan norm is 0.2337096482515335
+Training on Client 8...
+original norm of grads is 0.24023662507534027
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0049004554748535
+norm of grads after quan norm is 0.2414139062166214
+Training on Client 9...
+original norm of grads is 0.24445243179798126
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0042608976364136
+norm of grads after quan norm is 0.2454940378665924
+Training on Client 10...
+original norm of grads is 0.2562063932418823
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050935745239258
+norm of grads after quan norm is 0.2575113773345947
+Server Epoch 46 is completed in 5.190991 seconds.
+Server Epoch 47 Started...
+Training on Client 1...
+original norm of grads is 0.25171253085136414
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0039830207824707
+norm of grads after quan norm is 0.2527151107788086
+Training on Client 2...
+original norm of grads is 0.241838738322258
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.004624366760254
+norm of grads after quan norm is 0.24295705556869507
+Training on Client 3...
+original norm of grads is 0.22255229949951172
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0054705142974854
+norm of grads after quan norm is 0.22376979887485504
+Training on Client 4...
+original norm of grads is 0.21940231323242188
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0042530298233032
+norm of grads after quan norm is 0.22033542394638062
+Training on Client 5...
+original norm of grads is 0.2199466973543167
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0041229724884033
+norm of grads after quan norm is 0.2208535373210907
+Training on Client 6...
+original norm of grads is 0.23997236788272858
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048671960830688
+norm of grads after quan norm is 0.24114035069942474
+Training on Client 7...
+original norm of grads is 0.24086299538612366
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0045043230056763
+norm of grads after quan norm is 0.24194791913032532
+Training on Client 8...
+original norm of grads is 0.24996770918369293
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.003807783126831
+norm of grads after quan norm is 0.25091952085494995
+Training on Client 9...
+original norm of grads is 0.23000864684581757
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.005113959312439
+norm of grads after quan norm is 0.23118488490581512
+Training on Client 10...
+original norm of grads is 0.24537602066993713
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0052486658096313
+norm of grads after quan norm is 0.24666394293308258
+Server Epoch 47 is completed in 5.253897 seconds.
+Server Epoch 48 Started...
+Training on Client 1...
+original norm of grads is 0.22663530707359314
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0048049688339233
+norm of grads after quan norm is 0.22772428393363953
+Training on Client 2...
+original norm of grads is 0.23463062942028046
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0039303302764893
+norm of grads after quan norm is 0.2355528026819229
+Training on Client 3...
+original norm of grads is 0.22626803815364838
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0049054622650146
+norm of grads after quan norm is 0.2273779958486557
+Training on Client 4...
+original norm of grads is 0.21654203534126282
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0039585828781128
+norm of grads after quan norm is 0.2173992544412613
+Training on Client 5...
+original norm of grads is 0.23369596898555756
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1.0029371976852417
+norm of grads after quan norm is 0.23438237607479095
+Training on Client 6...
+original norm of grads is 0.2365916222333908
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0048800706863403
+norm of grads after quan norm is 0.2377462089061737
+Training on Client 7...
+original norm of grads is 0.23048000037670135
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004107117652893
+norm of grads after quan norm is 0.23142659664154053
+Training on Client 8...
+original norm of grads is 0.2395782619714737
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.004571557044983
+norm of grads after quan norm is 0.2406734973192215
+Training on Client 9...
+original norm of grads is 0.25211334228515625
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.00490403175354
+norm of grads after quan norm is 0.2533497214317322
+Training on Client 10...
+original norm of grads is 0.24247968196868896
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0051144361495972
+norm of grads after quan norm is 0.24371983110904694
+Server Epoch 48 is completed in 5.249511 seconds.
+Server Epoch 49 Started...
+Training on Client 1...
+original norm of grads is 0.23573604226112366
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0045133829116821
+norm of grads after quan norm is 0.23679998517036438
+Training on Client 2...
+original norm of grads is 0.23496289551258087
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0045301914215088
+norm of grads after quan norm is 0.236027330160141
+Training on Client 3...
+original norm of grads is 0.20269764959812164
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004523754119873
+norm of grads after quan norm is 0.20361462235450745
+Training on Client 4...
+original norm of grads is 0.22695760428905487
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044047832489014
+norm of grads after quan norm is 0.22795730829238892
+Training on Client 5...
+original norm of grads is 0.22827211022377014
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004914402961731
+norm of grads after quan norm is 0.22939394414424896
+Training on Client 6...
+original norm of grads is 0.23414285480976105
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0045217275619507
+norm of grads after quan norm is 0.23520159721374512
+Training on Client 7...
+original norm of grads is 0.22937309741973877
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0044804811477661
+norm of grads after quan norm is 0.23040080070495605
+Training on Client 8...
+original norm of grads is 0.24661609530448914
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0050379037857056
+norm of grads after quan norm is 0.24785849452018738
+Training on Client 9...
+original norm of grads is 0.2477228194475174
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0052815675735474
+norm of grads after quan norm is 0.2490311861038208
+Training on Client 10...
+original norm of grads is 0.25423991680145264
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.00424063205719
+norm of grads after quan norm is 0.2553180456161499
+Server Epoch 49 is completed in 5.259357 seconds.
+Server Epoch 50 Started...
+Training on Client 1...
+original norm of grads is 0.22796086966991425
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0042434930801392
+norm of grads after quan norm is 0.22892822325229645
+Training on Client 2...
+original norm of grads is 0.2314424365758896
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0049318075180054
+norm of grads after quan norm is 0.23258386552333832
+Training on Client 3...
+original norm of grads is 0.22571220993995667
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0047626495361328
+norm of grads after quan norm is 0.22678720951080322
+Training on Client 4...
+original norm of grads is 0.21858860552310944
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1.004599928855896
+norm of grads after quan norm is 0.2195940911769867
+Training on Client 5...
+original norm of grads is 0.23206967115402222
+norm of grads after Norm is 0.9999999403953552
+norm of grads after quan is 1.0042475461959839
+norm of grads after quan norm is 0.23305538296699524
+Training on Client 6...
+original norm of grads is 0.24991557002067566
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004491925239563
+norm of grads after quan norm is 0.25103816390037537
+Training on Client 7...
+original norm of grads is 0.22452455759048462
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0047402381896973
+norm of grads after quan norm is 0.2255888730287552
+Training on Client 8...
+original norm of grads is 0.240480437874794
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.005177617073059
+norm of grads after quan norm is 0.24172554910182953
+Training on Client 9...
+original norm of grads is 0.23934336006641388
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.0043470859527588
+norm of grads after quan norm is 0.2403838038444519
+Training on Client 10...
+original norm of grads is 0.24433764815330505
+norm of grads after Norm is 1.0
+norm of grads after quan is 1.004835844039917
+norm of grads after quan norm is 0.24551922082901
+Server Epoch 50 is completed in 5.275605 seconds.

@@ -1,0 +1,10 @@
+{"time":"2025-02-16T19:52:34.640341+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/ata/Desktop/Me/JAX/wandb/run-20250216_195234-sw32gyed/logs/debug-core.log"}
+{"time":"2025-02-16T19:52:34.74806+01:00","level":"INFO","msg":"created new stream","id":"sw32gyed"}
+{"time":"2025-02-16T19:52:34.748127+01:00","level":"INFO","msg":"stream: started","id":"sw32gyed"}
+{"time":"2025-02-16T19:52:34.748226+01:00","level":"INFO","msg":"handler: started","stream_id":"sw32gyed"}
+{"time":"2025-02-16T19:52:34.748677+01:00","level":"INFO","msg":"sender: started","stream_id":"sw32gyed"}
+{"time":"2025-02-16T19:52:34.748756+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"sw32gyed"}
+{"time":"2025-02-16T19:52:35.056194+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T19:52:35.136414+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-16T19:52:35.141236+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-16T19:52:36.513071+01:00","level":"INFO","msg":"Pausing system monitor"}

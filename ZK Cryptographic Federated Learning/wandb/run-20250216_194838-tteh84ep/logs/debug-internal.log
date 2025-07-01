@@ -1,0 +1,10 @@
+{"time":"2025-02-16T19:48:38.998892+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/ata/Desktop/Me/JAX/wandb/run-20250216_194838-tteh84ep/logs/debug-core.log"}
+{"time":"2025-02-16T19:48:39.107722+01:00","level":"INFO","msg":"created new stream","id":"tteh84ep"}
+{"time":"2025-02-16T19:48:39.107774+01:00","level":"INFO","msg":"stream: started","id":"tteh84ep"}
+{"time":"2025-02-16T19:48:39.107856+01:00","level":"INFO","msg":"handler: started","stream_id":"tteh84ep"}
+{"time":"2025-02-16T19:48:39.108115+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"tteh84ep"}
+{"time":"2025-02-16T19:48:39.108299+01:00","level":"INFO","msg":"sender: started","stream_id":"tteh84ep"}
+{"time":"2025-02-16T19:48:39.427702+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T19:48:39.503223+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-16T19:48:39.507506+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-16T19:48:40.573838+01:00","level":"INFO","msg":"Pausing system monitor"}

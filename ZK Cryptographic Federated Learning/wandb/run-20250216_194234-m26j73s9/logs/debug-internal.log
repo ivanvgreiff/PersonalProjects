@@ -1,0 +1,10 @@
+{"time":"2025-02-16T19:42:34.701212+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/ata/Desktop/Me/JAX/wandb/run-20250216_194234-m26j73s9/logs/debug-core.log"}
+{"time":"2025-02-16T19:42:34.809837+01:00","level":"INFO","msg":"created new stream","id":"m26j73s9"}
+{"time":"2025-02-16T19:42:34.809888+01:00","level":"INFO","msg":"stream: started","id":"m26j73s9"}
+{"time":"2025-02-16T19:42:34.810061+01:00","level":"INFO","msg":"handler: started","stream_id":"m26j73s9"}
+{"time":"2025-02-16T19:42:34.810173+01:00","level":"INFO","msg":"sender: started","stream_id":"m26j73s9"}
+{"time":"2025-02-16T19:42:34.81019+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"m26j73s9"}
+{"time":"2025-02-16T19:42:35.127006+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T19:42:35.202333+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-16T19:42:35.20681+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-16T19:42:37.084968+01:00","level":"INFO","msg":"Pausing system monitor"}

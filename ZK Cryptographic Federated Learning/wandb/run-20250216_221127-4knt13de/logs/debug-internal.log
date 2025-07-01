@@ -1,0 +1,18 @@
+{"time":"2025-02-16T22:11:27.624954+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/ata/Desktop/Me/JAX/wandb/run-20250216_221127-4knt13de/logs/debug-core.log"}
+{"time":"2025-02-16T22:11:27.731921+01:00","level":"INFO","msg":"created new stream","id":"4knt13de"}
+{"time":"2025-02-16T22:11:27.731964+01:00","level":"INFO","msg":"stream: started","id":"4knt13de"}
+{"time":"2025-02-16T22:11:27.73197+01:00","level":"INFO","msg":"handler: started","stream_id":"4knt13de"}
+{"time":"2025-02-16T22:11:27.732002+01:00","level":"INFO","msg":"sender: started","stream_id":"4knt13de"}
+{"time":"2025-02-16T22:11:27.732013+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"4knt13de"}
+{"time":"2025-02-16T22:11:28.006393+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T22:11:28.081701+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-16T22:11:28.087132+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-16T22:15:38.083385+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-02-16T22:15:38.083842+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-02-16T22:15:39.088946+01:00","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.625102833,"progress":"15.5KB/15.5KB"},{"desc":"uploading wandb-summary.json","runtime_seconds":0.6250905,"progress":"3.1KB/3.1KB"},{"desc":"uploading config.yaml","runtime_seconds":0.311061167,"progress":"2.3KB/2.3KB"}],"total_operations":3}}
+{"time":"2025-02-16T22:15:39.226412+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-02-16T22:15:40.566886+01:00","level":"INFO","msg":"stream: closing","id":"4knt13de"}
+{"time":"2025-02-16T22:15:40.567014+01:00","level":"INFO","msg":"handler: closed","stream_id":"4knt13de"}
+{"time":"2025-02-16T22:15:40.567071+01:00","level":"INFO","msg":"sender: closed","stream_id":"4knt13de"}
+{"time":"2025-02-16T22:15:40.567029+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"4knt13de"}
+{"time":"2025-02-16T22:15:40.567335+01:00","level":"INFO","msg":"stream: closed","id":"4knt13de"}

@@ -1,0 +1,10 @@
+{"time":"2025-02-16T19:44:08.592206+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/ata/Desktop/Me/JAX/wandb/run-20250216_194408-nm3i2nv7/logs/debug-core.log"}
+{"time":"2025-02-16T19:44:08.699629+01:00","level":"INFO","msg":"created new stream","id":"nm3i2nv7"}
+{"time":"2025-02-16T19:44:08.699671+01:00","level":"INFO","msg":"stream: started","id":"nm3i2nv7"}
+{"time":"2025-02-16T19:44:08.699744+01:00","level":"INFO","msg":"handler: started","stream_id":"nm3i2nv7"}
+{"time":"2025-02-16T19:44:08.7001+01:00","level":"INFO","msg":"sender: started","stream_id":"nm3i2nv7"}
+{"time":"2025-02-16T19:44:08.700182+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"nm3i2nv7"}
+{"time":"2025-02-16T19:44:10.266064+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T19:44:10.362478+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-16T19:44:10.367057+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-16T19:44:12.165818+01:00","level":"INFO","msg":"Pausing system monitor"}

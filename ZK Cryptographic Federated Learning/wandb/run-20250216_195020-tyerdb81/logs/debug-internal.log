@@ -1,0 +1,10 @@
+{"time":"2025-02-16T19:50:20.622162+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/ata/Desktop/Me/JAX/wandb/run-20250216_195020-tyerdb81/logs/debug-core.log"}
+{"time":"2025-02-16T19:50:20.729965+01:00","level":"INFO","msg":"created new stream","id":"tyerdb81"}
+{"time":"2025-02-16T19:50:20.730026+01:00","level":"INFO","msg":"stream: started","id":"tyerdb81"}
+{"time":"2025-02-16T19:50:20.730088+01:00","level":"INFO","msg":"handler: started","stream_id":"tyerdb81"}
+{"time":"2025-02-16T19:50:20.730464+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"tyerdb81"}
+{"time":"2025-02-16T19:50:20.730552+01:00","level":"INFO","msg":"sender: started","stream_id":"tyerdb81"}
+{"time":"2025-02-16T19:50:21.072319+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T19:50:21.151989+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-16T19:50:21.156565+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-16T19:50:22.74733+01:00","level":"INFO","msg":"Pausing system monitor"}

@@ -1,0 +1,10 @@
+{"time":"2025-02-16T19:45:46.111715+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/ata/Desktop/Me/JAX/wandb/run-20250216_194545-qn2trjtj/logs/debug-core.log"}
+{"time":"2025-02-16T19:45:46.218492+01:00","level":"INFO","msg":"created new stream","id":"qn2trjtj"}
+{"time":"2025-02-16T19:45:46.218551+01:00","level":"INFO","msg":"stream: started","id":"qn2trjtj"}
+{"time":"2025-02-16T19:45:46.218676+01:00","level":"INFO","msg":"handler: started","stream_id":"qn2trjtj"}
+{"time":"2025-02-16T19:45:46.218999+01:00","level":"INFO","msg":"sender: started","stream_id":"qn2trjtj"}
+{"time":"2025-02-16T19:45:46.219024+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"qn2trjtj"}
+{"time":"2025-02-16T19:45:46.534487+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T19:45:46.615016+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-16T19:45:46.619411+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-16T19:45:48.518166+01:00","level":"INFO","msg":"Pausing system monitor"}

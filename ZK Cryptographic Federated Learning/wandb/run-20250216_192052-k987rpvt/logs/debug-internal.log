@@ -1,0 +1,16 @@
+{"time":"2025-02-16T19:20:53.126691+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/ata/Desktop/Me/JAX/wandb/run-20250216_192052-k987rpvt/logs/debug-core.log"}
+{"time":"2025-02-16T19:20:53.23563+01:00","level":"INFO","msg":"created new stream","id":"k987rpvt"}
+{"time":"2025-02-16T19:20:53.235688+01:00","level":"INFO","msg":"stream: started","id":"k987rpvt"}
+{"time":"2025-02-16T19:20:53.235823+01:00","level":"INFO","msg":"handler: started","stream_id":"k987rpvt"}
+{"time":"2025-02-16T19:20:53.23607+01:00","level":"INFO","msg":"sender: started","stream_id":"k987rpvt"}
+{"time":"2025-02-16T19:20:53.236166+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"k987rpvt"}
+{"time":"2025-02-16T19:20:53.51614+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T19:20:53.610007+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-16T19:20:53.615235+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-16T19:20:53.782236+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-16T19:21:42.042888+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-16T19:21:42.046372+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-16T19:21:48.910847+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-16T19:21:49.826906+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-16T19:22:24.837713+01:00","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-02-16T19:22:25.332632+01:00","level":"INFO","msg":"Pausing system monitor"}

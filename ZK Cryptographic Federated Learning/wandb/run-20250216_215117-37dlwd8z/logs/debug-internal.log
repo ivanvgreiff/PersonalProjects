@@ -1,0 +1,9 @@
+{"time":"2025-02-16T21:51:17.930827+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.6","symlink path":"/Users/ata/Desktop/Me/JAX/wandb/run-20250216_215117-37dlwd8z/logs/debug-core.log"}
+{"time":"2025-02-16T21:51:18.037098+01:00","level":"INFO","msg":"created new stream","id":"37dlwd8z"}
+{"time":"2025-02-16T21:51:18.037136+01:00","level":"INFO","msg":"stream: started","id":"37dlwd8z"}
+{"time":"2025-02-16T21:51:18.037143+01:00","level":"INFO","msg":"handler: started","stream_id":"37dlwd8z"}
+{"time":"2025-02-16T21:51:18.03715+01:00","level":"INFO","msg":"sender: started","stream_id":"37dlwd8z"}
+{"time":"2025-02-16T21:51:18.037172+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"37dlwd8z"}
+{"time":"2025-02-16T21:51:18.339968+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-02-16T21:51:18.414157+01:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-02-16T21:51:18.419484+01:00","level":"INFO","msg":"Resuming system monitor"}

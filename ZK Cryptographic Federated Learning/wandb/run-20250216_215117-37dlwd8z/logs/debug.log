@@ -1,0 +1,30 @@
+2025-02-16 21:51:17,629 INFO    MainThread:11344 [wandb_setup.py:_flush():68] Current SDK version is 0.19.6
+2025-02-16 21:51:17,629 INFO    MainThread:11344 [wandb_setup.py:_flush():68] Configure stats pid to 11344
+2025-02-16 21:51:17,629 INFO    MainThread:11344 [wandb_setup.py:_flush():68] Loading settings from /Users/ata/.config/wandb/settings
+2025-02-16 21:51:17,629 INFO    MainThread:11344 [wandb_setup.py:_flush():68] Loading settings from /Users/ata/Desktop/Me/JAX/wandb/settings
+2025-02-16 21:51:17,629 INFO    MainThread:11344 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2025-02-16 21:51:17,629 INFO    MainThread:11344 [wandb_init.py:setup_run_log_directory():637] Logging user logs to /Users/ata/Desktop/Me/JAX/wandb/run-20250216_215117-37dlwd8z/logs/debug.log
+2025-02-16 21:51:17,629 INFO    MainThread:11344 [wandb_init.py:setup_run_log_directory():638] Logging internal logs to /Users/ata/Desktop/Me/JAX/wandb/run-20250216_215117-37dlwd8z/logs/debug-internal.log
+2025-02-16 21:51:17,629 INFO    MainThread:11344 [wandb_init.py:monkeypatch_ipython():589] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x42b5e64b0>
+2025-02-16 21:51:17,630 INFO    MainThread:11344 [wandb_init.py:init():756] calling init triggers
+2025-02-16 21:51:17,630 INFO    MainThread:11344 [wandb_init.py:init():761] wandb.init called with sweep_config: {}
+config: {'beta': {'index': 0, 'mode': 'value', 'value': 0.5}, 'data': {'alloc_ratio': 2, 'alloc_type': 'uniform', 'batch_size': 512, 'beta': 0.5, 'name': 'mnist', 'num_classes': 10, 'num_validation': 100, 'path': './data/', 'poison': {'calc_l2_norm': True, 'clients': [0, 9], 'patch': {'loc': 0, 'loc_rad': 2.5, 'size': (5, 5, 1), 'val': 1.0}, 'ratio': 0.2, 'source_clss': 5, 'target_clss': 6}, 'shape': (28, 28, 1)}, 'experiment': 0, 'quantization': {'levels': 1000.0, 'prime': 127}, 'rlr': {'thresh': 4}, 'seed': 1, 'server': {'es': {'enable': False, 'patience': 3, 'threshold': 0.1, 'wait': 0}, 'num_epochs': 50, 'tx': {'fn': <function sgd at 0x11b7780e0>, 'lr': 1}, 'update_thresh': 0.75}, 'train': {'batchwise_update': True, 'loss_fn': <function softmax_cross_entropy at 0x11b7a0d60>, 'model': <function lenet5 at 0x15f3bafc0>, 'num_runs': 1}, 'wandb': {'job_type': 'Federated Learning', 'name': '', 'project': 'Federated Learning'}, 'worker': {'epoch': {'beta': 0.5, 'coef': 20, 'is_random': False, 'mean': 3, 'std': 2, 'type': 'constant'}, 'inact_prob': 0, 'num': 10, 'tx': {'fn': <function sgd at 0x11b7780e0>, 'lr': 0.01, 'moment': 0.9}}, '_wandb': {}}
+2025-02-16 21:51:17,630 INFO    MainThread:11344 [wandb_init.py:init():789] starting backend
+2025-02-16 21:51:17,885 INFO    MainThread:11344 [wandb_init.py:init():793] sending inform_init request
+2025-02-16 21:51:17,929 INFO    MainThread:11344 [backend.py:_multiprocessing_setup():97] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2025-02-16 21:51:17,929 INFO    MainThread:11344 [wandb_init.py:init():808] backend started and connected
+2025-02-16 21:51:17,932 INFO    MainThread:11344 [wandb_run.py:_label_probe_notebook():1196] probe notebook
+2025-02-16 21:51:17,932 INFO    MainThread:11344 [wandb_init.py:init():901] updated telemetry
+2025-02-16 21:51:17,933 INFO    MainThread:11344 [wandb_init.py:init():936] communicating run to backend with 90.0 second timeout
+2025-02-16 21:51:18,338 INFO    MainThread:11344 [wandb_init.py:init():994] starting run threads in backend
+2025-02-16 21:51:18,412 INFO    MainThread:11344 [wandb_run.py:_console_start():2385] atexit reg
+2025-02-16 21:51:18,412 INFO    MainThread:11344 [wandb_run.py:_redirect():2235] redirect: wrap_raw
+2025-02-16 21:51:18,412 INFO    MainThread:11344 [wandb_run.py:_redirect():2300] Wrapping output streams.
+2025-02-16 21:51:18,412 INFO    MainThread:11344 [wandb_run.py:_redirect():2325] Redirects installed.
+2025-02-16 21:51:18,413 INFO    MainThread:11344 [wandb_init.py:init():1036] run started, returning control to user process
+2025-02-16 21:51:18,413 INFO    MainThread:11344 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-16 21:51:18,413 INFO    MainThread:11344 [wandb_init.py:_pause_backend():554] pausing backend
+2025-02-16 21:51:18,419 INFO    MainThread:11344 [wandb_init.py:_resume_backend():559] resuming backend
+2025-02-16 21:53:09,170 WARNING MsgRouterThr:11344 [router.py:message_loop():75] message_loop has been closed
+2025-02-16 21:53:09,622 INFO    MainThread:11344 [jupyter.py:save_ipynb():386] not saving jupyter notebook
+2025-02-16 21:53:09,622 INFO    MainThread:11344 [wandb_init.py:_pause_backend():554] pausing backend

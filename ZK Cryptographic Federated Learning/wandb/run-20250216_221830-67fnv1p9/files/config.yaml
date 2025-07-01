@@ -1,0 +1,115 @@
+_wandb:
+    value:
+        cli_version: 0.19.6
+        m: []
+        python_version: 3.12.6
+        t:
+            "1":
+                - 2
+                - 3
+                - 12
+                - 45
+                - 55
+            "2":
+                - 2
+                - 3
+                - 12
+                - 45
+                - 55
+            "3":
+                - 2
+                - 13
+                - 16
+                - 23
+                - 55
+            "4": 3.12.6
+            "5": 0.19.6
+            "8":
+                - 1
+                - 5
+            "12": 0.19.6
+            "13": darwin-arm64
+beta:
+    value:
+        index: 0
+        mode: value
+        value: 0.5
+data:
+    value:
+        alloc_ratio: 2
+        alloc_type: uniform
+        batch_size: 512
+        beta: 0.5
+        name: mnist
+        num_classes: 10
+        num_validation: 100
+        path: ./data/
+        poison:
+            calc_l2_norm: true
+            clients:
+                - 0
+                - 9
+            patch:
+                loc: 0
+                loc_rad: 2.5
+                size:
+                    - 7
+                    - 7
+                    - 1
+                val: 1
+            ratio: 0.2
+            source_clss: 5
+            target_clss: 6
+        shape:
+            - 28
+            - 28
+            - 1
+experiment:
+    value: 0
+quantization:
+    value:
+        levels: 1000
+        prime: 127
+rlr:
+    value:
+        thresh: 8
+seed:
+    value: 1
+server:
+    value:
+        es:
+            enable: false
+            patience: 3
+            threshold: 0.1
+            wait: 0
+        num_epochs: 50
+        tx:
+            fn: optax._src.alias.sgd
+            lr: 1
+        update_thresh: 0.75
+train:
+    value:
+        batchwise_update: true
+        loss_fn: optax.losses._classification.softmax_cross_entropy
+        model: Models.lenet.lenet5
+        num_runs: 1
+wandb:
+    value:
+        job_type: Federated Learning
+        name: ""
+        project: Federated Learning
+worker:
+    value:
+        epoch:
+            beta: 0.5
+            coef: 20
+            is_random: false
+            mean: 3
+            std: 2
+            type: constant
+        inact_prob: 0
+        num: 10
+        tx:
+            fn: optax._src.alias.sgd
+            lr: 0.01
+            moment: 0.9

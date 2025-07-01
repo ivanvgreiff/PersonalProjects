@@ -1,0 +1,443 @@
+Server Epoch 1 Started...
+Training on Client 1...
+original norm of grads is 1.2496490478515625
+norm of grads after Norm is 0.9999998807907104
+norm of grads after quan is 1004.251953125
+norm of grads after quan norm is 1254.96240234375
+Training on Client 2...
+original norm of grads is 1.2418915033340454
+norm of grads after Norm is 1.0
+norm of grads after quan is 1004.1090698242188
+norm of grads after quan norm is 1246.9945068359375
+Training on Client 3...
+original norm of grads is 1.2190078496932983
+norm of grads after Norm is 1.0
+norm of grads after quan is 1003.839599609375
+norm of grads after quan norm is 1223.6883544921875
+Training on Client 4...
+original norm of grads is 1.2925121784210205
+norm of grads after Norm is 1.0
+norm of grads after quan is 1003.7828369140625
+norm of grads after quan norm is 1297.401611328125
+Training on Client 5...
+original norm of grads is 1.2602039575576782
+norm of grads after Norm is 1.0
+norm of grads after quan is 1004.1737670898438
+norm of grads after quan norm is 1265.4637451171875
+Training on Client 6...
+original norm of grads is 1.1687133312225342
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1004.466552734375
+norm of grads after quan norm is 1173.933349609375
+Training on Client 7...
+original norm of grads is 1.255112886428833
+norm of grads after Norm is 1.0
+norm of grads after quan is 1004.2081298828125
+norm of grads after quan norm is 1260.39453125
+Training on Client 8...
+original norm of grads is 1.2157158851623535
+norm of grads after Norm is 1.0
+norm of grads after quan is 1004.17578125
+norm of grads after quan norm is 1220.7923583984375
+Training on Client 9...
+original norm of grads is 1.2575781345367432
+norm of grads after Norm is 1.0
+norm of grads after quan is 1004.1543579101562
+norm of grads after quan norm is 1262.802490234375
+Training on Client 10...
+original norm of grads is 1.2794851064682007
+norm of grads after Norm is 1.0000001192092896
+norm of grads after quan is 1003.5726318359375
+norm of grads after quan norm is 1284.0562744140625
+Server Epoch 1 is completed in 6.438513 seconds.
+Server Epoch 2 Started...
+Training on Client 1...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 2...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 3...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 4...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 5...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 6...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 7...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 8...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 9...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 10...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Server Epoch 2 is completed in 5.007263 seconds.
+Server Epoch 3 Started...
+Training on Client 1...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 2...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 3...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 4...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 5...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 6...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 7...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 8...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 9...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 10...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Server Epoch 3 is completed in 4.979346 seconds.
+Server Epoch 4 Started...
+Training on Client 1...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 2...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 3...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 4...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 5...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 6...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 7...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 8...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 9...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 10...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Server Epoch 4 is completed in 5.041258 seconds.
+Server Epoch 5 Started...
+Training on Client 1...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 2...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 3...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 4...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 5...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 6...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 7...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 8...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 9...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 10...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Server Epoch 5 is completed in 4.864863 seconds.
+Server Epoch 6 Started...
+Training on Client 1...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 2...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 3...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 4...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 5...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 6...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 7...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 8...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 9...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 10...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Server Epoch 6 is completed in 4.86752 seconds.
+Server Epoch 7 Started...
+Training on Client 1...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 2...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 3...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 4...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 5...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 6...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 7...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 8...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 9...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 10...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Server Epoch 7 is completed in 4.949731 seconds.
+Server Epoch 8 Started...
+Training on Client 1...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 2...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 3...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 4...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 5...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 6...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 7...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 8...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 9...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 10...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Server Epoch 8 is completed in 5.052646 seconds.
+Server Epoch 9 Started...
+Training on Client 1...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 2...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 3...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 4...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 5...
+original norm of grads is nan
+norm of grads after Norm is nan
+norm of grads after quan is nan
+norm of grads after quan norm is nan
+Training on Client 6...
